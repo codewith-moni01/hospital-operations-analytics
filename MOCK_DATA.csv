@@ -1,0 +1,1001 @@
+patient_id,age,gender,insurance_type,department,branch,admission_date,discharge_date,admission_type,bed_type,doctor_hours_booked,procedure_cost,outcome,readmitted
+1,83,Male,Self pay,emergency,Sainte-Geneviève-des-Bois,2/6/2025,9/12/2025,Scheduled,ICU,4,40253,Recovered,No
+2,50,Female,Government,emergency,Kinsealy-Drinan,3/2/2025,7/27/2025,Emergency,ICU,1,22619,Transferred,yes
+3,86,Male,Government,Cardiology,Frösön,8/10/2025,9/8/2025,Scheduled,ICU,7,150767,Recovered,yes
+4,87,Female,Self pay,Cardiology,København,12/31/2025,6/23/2025,Emergency,ICU,3,18407,Improved,No
+5,12,Genderqueer,Government,pediatrics,Delok,1/8/2026,12/29/2025,Emergency,ICU,2,117673,Transferred,yes
+6,53,Male,Government,emergency,Rencun,11/20/2025,3/4/2025,Emergency,General,3,199237,Deceased,yes
+7,14,Non-binary,Self pay,orthopedics,Reisdorf,12/28/2025,2/5/2025,Scheduled,General,6,124805,Deceased,yes
+8,83,Female,Government,emergency,Kafr Sawm,2/21/2025,5/1/2025,Scheduled,ICU,8,48057,Transferred,yes
+9,46,Female,Government,orthopedics,Zhonglong,5/17/2025,12/14/2025,Emergency,General,8,87587,Deceased,No
+10,49,Polygender,Government,orthopedics,Uglich,12/12/2025,12/11/2025,Emergency,General,2,136321,Recovered,yes
+11,73,Female,Government,oncology,Lomintsevskiy,3/3/2025,10/15/2025,Emergency,ICU,1,107870,Transferred,No
+12,95,Female,Self pay,oncology,Mujães,5/5/2025,10/4/2025,Scheduled,ICU,2,76070,Transferred,yes
+13,84,Male,Government,general medicine,Jiwuwu,1/8/2026,3/19/2025,Scheduled,General,6,74104,Deceased,No
+14,98,Male,Self pay,oncology,Turpo,11/19/2025,2/24/2025,Emergency,ICU,1,176310,Deceased,yes
+15,1,Male,private,emergency,Mayong,11/26/2025,6/19/2025,Scheduled,ICU,7,128470,Transferred,yes
+16,51,Genderfluid,private,Cardiology,Colorado Springs,3/9/2025,3/11/2025,Emergency,ICU,4,92298,Deceased,No
+17,18,Male,private,oncology,Divinópolis,7/26/2025,8/7/2025,Scheduled,General,9,60509,Recovered,yes
+18,31,Male,Government,orthopedics,Xiaozhang,8/25/2025,12/27/2025,Emergency,General,1,176756,Deceased,No
+19,92,Male,Self pay,general medicine,Fredericton,9/2/2025,1/10/2026,Emergency,General,3,152936,Transferred,yes
+20,38,Female,private,orthopedics,Cibeureum,9/7/2025,3/22/2025,Scheduled,ICU,4,62908,Deceased,No
+21,47,Male,Government,emergency,Obubra,6/1/2025,5/15/2025,Scheduled,General,6,57597,Improved,No
+22,23,Genderqueer,Government,oncology,Hor,12/9/2025,5/21/2025,Emergency,ICU,9,71262,Improved,yes
+23,87,Male,Government,pediatrics,Tulsa,11/13/2025,10/22/2025,Emergency,ICU,8,115472,Recovered,yes
+24,62,Male,Government,general medicine,Andop,2/24/2025,11/28/2025,Scheduled,General,6,64899,Recovered,yes
+25,60,Male,Self pay,oncology,Puubheto,7/8/2025,11/16/2025,Emergency,ICU,1,161208,Transferred,No
+26,95,Male,Self pay,Cardiology,Ringim,9/14/2025,11/8/2025,Emergency,General,4,30176,Improved,No
+27,53,Female,private,pediatrics,Krasnodar,4/15/2025,9/6/2025,Emergency,ICU,3,137792,Deceased,yes
+28,97,Male,Self pay,pediatrics,Khujirt,12/7/2025,6/12/2025,Scheduled,General,2,79709,Deceased,yes
+29,58,Polygender,private,orthopedics,Aix-en-Provence,5/2/2025,4/4/2025,Scheduled,General,5,33581,Recovered,yes
+30,77,Male,Self pay,pediatrics,Čortanovci,11/13/2025,11/9/2025,Emergency,ICU,10,100311,Deceased,No
+31,27,Female,Self pay,oncology,Santa Bárbara,6/1/2025,10/5/2025,Scheduled,ICU,2,14113,Improved,No
+32,21,Male,Government,general medicine,Alvega,12/6/2025,3/15/2025,Scheduled,ICU,10,68339,Transferred,yes
+33,93,Female,Self pay,emergency,Padangtiji,12/28/2025,8/31/2025,Scheduled,General,2,45062,Recovered,No
+34,92,Male,Government,pediatrics,Sōka,7/18/2025,5/23/2025,Scheduled,ICU,9,54212,Recovered,No
+35,45,Male,Government,pediatrics,Oyonnax,4/18/2025,7/9/2025,Emergency,ICU,1,29213,Improved,No
+36,24,Female,Government,orthopedics,Chambéry,1/15/2026,9/23/2025,Scheduled,General,10,129524,Deceased,yes
+37,5,Male,Self pay,general medicine,Yara,11/12/2025,8/10/2025,Emergency,ICU,7,187490,Deceased,yes
+38,35,Female,private,pediatrics,Qixian,12/23/2025,9/28/2025,Emergency,General,8,171809,Recovered,No
+39,85,Female,private,general medicine,Fengshan,4/30/2025,12/3/2025,Emergency,ICU,2,96708,Recovered,No
+40,59,Female,Government,emergency,Bondy,3/2/2025,9/24/2025,Emergency,ICU,3,86807,Improved,No
+41,82,Female,Self pay,general medicine,Jetis,3/3/2025,7/28/2025,Emergency,General,7,9760,Transferred,No
+42,61,Male,Self pay,general medicine,Saqqez,4/1/2025,7/1/2025,Emergency,ICU,2,138011,Recovered,No
+43,99,Female,Government,Cardiology,Nieuwegein,12/16/2025,5/7/2025,Scheduled,ICU,8,24502,Transferred,yes
+44,81,Male,Government,emergency,Mariara,12/19/2025,7/12/2025,Emergency,ICU,1,101639,Improved,yes
+45,94,Male,Government,emergency,Cicheng,2/3/2026,8/7/2025,Scheduled,General,7,102778,Recovered,No
+46,11,Genderfluid,private,emergency,Belica,8/7/2025,12/26/2025,Emergency,General,10,193864,Recovered,No
+47,66,Male,Self pay,Cardiology,Rio Claro,12/31/2025,4/10/2025,Emergency,General,4,176104,Improved,yes
+48,63,Female,Government,emergency,São Félix do Xingu,10/29/2025,10/2/2025,Scheduled,ICU,5,198283,Improved,yes
+49,27,Female,private,orthopedics,Kasugai,2/14/2025,7/7/2025,Scheduled,General,6,195468,Deceased,yes
+50,16,Female,Self pay,general medicine,Los Pinos,9/5/2025,11/7/2025,Scheduled,ICU,8,110462,Transferred,yes
+51,15,Male,Self pay,orthopedics,Kambing,9/11/2025,12/9/2025,Emergency,ICU,10,85420,Transferred,No
+52,16,Male,Self pay,general medicine,Nancheng,6/28/2025,5/11/2025,Scheduled,ICU,1,129998,Transferred,yes
+53,10,Male,Self pay,pediatrics,Kuching,9/17/2025,8/8/2025,Emergency,ICU,2,57724,Recovered,No
+54,75,Female,Self pay,general medicine,Nariño,1/3/2026,5/20/2025,Scheduled,General,5,197520,Improved,No
+55,84,Polygender,private,general medicine,Dorūd,2/20/2025,7/27/2025,Emergency,General,5,119321,Improved,No
+56,19,Male,Self pay,emergency,Shijia,4/4/2025,7/19/2025,Emergency,General,5,131521,Improved,No
+57,17,Bigender,Government,emergency,Qiulu,4/28/2025,3/17/2025,Scheduled,General,6,122223,Recovered,yes
+58,20,Agender,private,orthopedics,Ros’,11/22/2025,12/13/2025,Scheduled,General,2,106555,Transferred,yes
+59,70,Male,Self pay,pediatrics,Bayshint,1/9/2026,11/12/2025,Scheduled,General,8,55521,Deceased,yes
+60,1,Female,private,oncology,Ōta,11/5/2025,9/25/2025,Emergency,General,10,73001,Improved,yes
+61,93,Female,Self pay,general medicine,Golek,6/4/2025,5/13/2025,Scheduled,General,6,174313,Deceased,No
+62,77,Genderqueer,Self pay,general medicine,Dmitriyevskaya,2/25/2025,10/31/2025,Emergency,General,2,120932,Deceased,yes
+63,28,Female,private,emergency,Pio Duran,5/28/2025,1/1/2026,Emergency,General,5,123355,Improved,No
+64,11,Male,Self pay,orthopedics,Wolanów,10/7/2025,7/22/2025,Scheduled,ICU,7,148947,Improved,yes
+65,41,Female,Self pay,pediatrics,Gangkou,11/15/2025,7/19/2025,Emergency,ICU,10,82845,Recovered,No
+66,80,Male,Self pay,emergency,Manga,5/20/2025,9/21/2025,Scheduled,General,8,165718,Recovered,yes
+67,95,Male,Self pay,general medicine,Oslo,5/4/2025,12/18/2025,Emergency,ICU,6,29831,Deceased,yes
+68,71,Bigender,private,oncology,Sanjiang,3/6/2025,4/24/2025,Scheduled,ICU,8,139718,Improved,No
+69,86,Male,private,emergency,Kemil,12/21/2025,12/12/2025,Scheduled,ICU,6,35265,Recovered,yes
+70,24,Male,private,pediatrics,Fredrikstad,6/23/2025,6/25/2025,Scheduled,ICU,3,54484,Improved,No
+71,86,Male,Self pay,oncology,Long Thành,3/24/2025,5/23/2025,Scheduled,ICU,9,54443,Improved,yes
+72,27,Female,Self pay,pediatrics,Cruzeiro,6/23/2025,12/6/2025,Emergency,General,6,6188,Recovered,No
+73,95,Male,private,oncology,Tancheng,8/27/2025,8/6/2025,Scheduled,General,1,35361,Transferred,yes
+74,44,Male,private,orthopedics,Kandhkot,1/30/2026,11/23/2025,Scheduled,General,4,102713,Improved,yes
+75,9,Male,Self pay,general medicine,Kampungbaru,11/18/2025,2/15/2025,Scheduled,General,3,102375,Deceased,No
+76,45,Genderfluid,private,emergency,Mella,8/18/2025,3/29/2025,Scheduled,General,5,73377,Transferred,yes
+77,70,Male,Self pay,pediatrics,Sande São Lourenço,2/7/2025,11/11/2025,Emergency,General,2,17722,Transferred,No
+78,36,Female,Self pay,emergency,Ash Shajarah,2/6/2025,9/15/2025,Scheduled,General,3,96857,Recovered,No
+79,77,Female,Self pay,emergency,Ciénaga de Oro,7/18/2025,12/27/2025,Scheduled,General,6,172596,Deceased,yes
+80,34,Female,private,emergency,Paris 16,1/28/2026,1/23/2026,Scheduled,ICU,2,157373,Deceased,No
+81,17,Female,Self pay,oncology,Јегуновце,4/13/2025,12/28/2025,Emergency,General,9,82003,Recovered,yes
+82,73,Male,Self pay,oncology,Oeiras,5/4/2025,5/7/2025,Scheduled,ICU,10,66234,Deceased,No
+83,68,Non-binary,Self pay,general medicine,Sanjiang,3/16/2025,11/30/2025,Scheduled,ICU,7,195617,Deceased,No
+84,54,Female,Government,emergency,Ikalamavony,8/15/2025,1/23/2026,Emergency,General,2,94760,Transferred,No
+85,44,Female,private,oncology,Starobin,3/8/2025,4/1/2025,Emergency,General,2,135906,Transferred,No
+86,50,Female,private,emergency,Kiupo,11/15/2025,9/19/2025,Scheduled,General,5,15928,Deceased,No
+87,23,Male,Government,pediatrics,Nizao,11/28/2025,3/22/2025,Scheduled,General,5,66264,Improved,yes
+88,99,Male,private,general medicine,San Teodoro,11/14/2025,7/22/2025,Scheduled,ICU,8,142724,Recovered,No
+89,71,Female,private,Cardiology,Danderyd,4/3/2025,3/14/2025,Emergency,General,8,9070,Deceased,No
+90,3,Male,Government,oncology,Clodomira,7/7/2025,7/27/2025,Emergency,General,10,187083,Improved,No
+91,68,Female,Government,Cardiology,Chesapeake,3/25/2025,4/27/2025,Scheduled,ICU,6,197966,Recovered,No
+92,82,Female,Self pay,orthopedics,T’ianet’i,7/5/2025,1/23/2026,Emergency,General,5,51735,Recovered,No
+93,18,Female,Self pay,Cardiology,Rezé,4/14/2025,10/30/2025,Scheduled,General,1,100919,Recovered,yes
+94,15,Male,private,general medicine,Panji,2/23/2025,3/13/2025,Scheduled,General,5,137661,Recovered,No
+95,68,Male,Government,orthopedics,Laguna,8/22/2025,11/18/2025,Scheduled,General,3,100674,Transferred,yes
+96,70,Male,Self pay,oncology,Isfana,10/20/2025,5/1/2025,Scheduled,General,8,178011,Deceased,No
+97,18,Bigender,private,Cardiology,Quebrada Larga,11/16/2025,9/20/2025,Scheduled,ICU,8,182283,Transferred,No
+98,99,Female,Government,general medicine,Fulong,8/17/2025,7/19/2025,Scheduled,General,2,38423,Deceased,yes
+99,77,Female,Government,oncology,Wang Noi,10/13/2025,5/27/2025,Scheduled,General,7,170545,Improved,yes
+100,72,Female,private,Cardiology,Meijiahe,1/5/2026,5/3/2025,Scheduled,General,6,189185,Deceased,No
+101,40,Female,private,Cardiology,Santiago,3/5/2025,4/23/2025,Scheduled,General,2,149268,Improved,yes
+102,90,Male,private,general medicine,Tarragona,3/10/2025,9/25/2025,Emergency,ICU,4,99490,Recovered,yes
+103,28,Female,private,orthopedics,Oakville,2/14/2025,9/14/2025,Emergency,General,10,46190,Recovered,yes
+104,41,Male,private,orthopedics,Mina Clavero,3/18/2025,5/17/2025,Scheduled,General,7,106017,Recovered,yes
+105,39,Agender,private,orthopedics,Oslo,10/15/2025,1/11/2026,Scheduled,ICU,8,193098,Recovered,yes
+106,20,Male,Government,emergency,Chadiza,3/18/2025,2/26/2025,Emergency,General,4,19383,Transferred,yes
+107,74,Male,Self pay,general medicine,Xinlin,11/14/2025,9/29/2025,Scheduled,General,7,24057,Recovered,No
+108,4,Male,Government,emergency,Muliang,2/12/2025,5/3/2025,Scheduled,General,10,80235,Recovered,yes
+109,47,Female,Government,general medicine,Guadalupe,8/29/2025,5/1/2025,Scheduled,General,8,71148,Recovered,yes
+110,61,Female,private,general medicine,Belozërsk,7/24/2025,4/13/2025,Emergency,ICU,4,82022,Transferred,yes
+111,60,Bigender,Government,Cardiology,Baisha,7/30/2025,5/26/2025,Scheduled,ICU,10,171353,Transferred,No
+112,40,Male,Self pay,oncology,Zürich,7/7/2025,8/27/2025,Scheduled,General,1,73166,Recovered,No
+113,63,Female,Government,emergency,Krajan,12/25/2025,12/3/2025,Emergency,General,7,158878,Deceased,No
+114,22,Female,Self pay,oncology,Orahovac,7/21/2025,11/24/2025,Scheduled,ICU,10,114318,Transferred,yes
+115,95,Male,private,pediatrics,Shinaihai,12/9/2025,12/22/2025,Emergency,General,10,195060,Improved,yes
+116,70,Genderqueer,Self pay,general medicine,Zlaté Hory,10/16/2025,2/20/2025,Scheduled,General,7,15255,Improved,No
+117,69,Female,private,general medicine,Yingchengzi,10/3/2025,7/10/2025,Emergency,General,8,135561,Improved,No
+118,60,Female,private,orthopedics,Örnsköldsvik,9/29/2025,5/7/2025,Emergency,General,6,61879,Improved,No
+119,15,Genderfluid,private,Cardiology,Urechcha,3/8/2025,9/7/2025,Emergency,General,5,132954,Improved,yes
+120,99,Female,private,pediatrics,Oslo,10/31/2025,9/28/2025,Scheduled,ICU,1,175480,Transferred,No
+121,39,Male,Self pay,pediatrics,Paracuru,4/3/2025,12/2/2025,Emergency,ICU,7,41761,Recovered,yes
+122,54,Male,Self pay,general medicine,Masty,11/8/2025,1/28/2026,Scheduled,General,4,109470,Improved,No
+123,29,Female,Government,oncology,Przemków,12/24/2025,6/16/2025,Scheduled,ICU,6,32387,Improved,No
+124,38,Male,private,oncology,Açu,10/30/2025,6/23/2025,Emergency,General,9,28595,Improved,yes
+125,8,Female,private,emergency,Staroyur’yevo,2/3/2026,1/31/2026,Emergency,ICU,7,82990,Improved,yes
+126,89,Genderfluid,Self pay,Cardiology,Gaizhou,7/26/2025,8/16/2025,Emergency,General,9,79489,Transferred,No
+127,45,Male,private,emergency,Hekou,9/19/2025,7/14/2025,Emergency,ICU,9,13907,Transferred,yes
+128,79,Female,private,Cardiology,Xingtan,7/17/2025,9/19/2025,Emergency,General,1,57019,Deceased,No
+129,94,Female,private,emergency,Şafāshahr,8/3/2025,5/15/2025,Emergency,General,9,147416,Transferred,yes
+130,43,Female,Self pay,Cardiology,Los Palacios,2/15/2025,4/28/2025,Emergency,ICU,9,120747,Deceased,yes
+131,78,Female,Government,orthopedics,Biny Selo,6/11/2025,4/19/2025,Scheduled,General,6,44055,Transferred,No
+132,84,Genderfluid,Self pay,pediatrics,Knyaginino,5/21/2025,6/8/2025,Emergency,General,8,151048,Deceased,No
+133,66,Male,Self pay,pediatrics,Longbu,7/1/2025,9/8/2025,Scheduled,General,2,98293,Improved,yes
+134,5,Female,Government,emergency,Petaẖ Tiqwa,8/13/2025,5/25/2025,Emergency,ICU,7,11037,Transferred,No
+135,62,Male,private,emergency,La Broquerie,11/1/2025,9/26/2025,Emergency,ICU,8,108205,Recovered,No
+136,16,Male,private,oncology,Yamrat,5/29/2025,2/3/2026,Scheduled,General,5,32989,Recovered,yes
+137,90,Male,private,emergency,Bang Kruai,2/4/2026,4/21/2025,Scheduled,ICU,2,112509,Transferred,yes
+138,70,Male,private,pediatrics,Rokem Barat,2/10/2025,12/31/2025,Emergency,ICU,10,170879,Recovered,yes
+139,66,Female,private,pediatrics,Tulsa,1/13/2026,6/25/2025,Emergency,General,2,76359,Improved,No
+140,78,Male,Self pay,orthopedics,Junbu,5/12/2025,7/6/2025,Scheduled,ICU,2,28013,Improved,No
+141,74,Male,Self pay,emergency,Lekas,6/1/2025,10/10/2025,Emergency,ICU,2,26253,Recovered,yes
+142,33,Female,Self pay,pediatrics,Brocēni,9/21/2025,12/31/2025,Emergency,ICU,8,50335,Recovered,yes
+143,26,Male,private,Cardiology,Loket,5/6/2025,10/12/2025,Emergency,ICU,8,171417,Improved,No
+144,75,Female,Government,general medicine,Nobinobi,12/17/2025,8/9/2025,Emergency,ICU,7,20842,Recovered,No
+145,4,Male,Government,orthopedics,Tulle,7/25/2025,12/10/2025,Scheduled,ICU,5,130990,Transferred,yes
+146,77,Male,Self pay,oncology,Quma,5/30/2025,10/27/2025,Scheduled,ICU,6,153753,Improved,yes
+147,46,Female,private,emergency,Smyshlyayevka,3/17/2025,4/5/2025,Emergency,ICU,3,128270,Recovered,No
+148,51,Male,private,oncology,Dao’er,4/24/2025,11/29/2025,Emergency,ICU,10,52404,Improved,yes
+149,52,Female,Self pay,Cardiology,La Ferté-Bernard,7/13/2025,4/11/2025,Scheduled,ICU,5,167119,Transferred,yes
+150,32,Female,Government,general medicine,Pujilí,10/13/2025,7/4/2025,Scheduled,ICU,6,6721,Recovered,yes
+151,33,Female,Self pay,oncology,Działoszyce,2/5/2025,10/31/2025,Scheduled,ICU,8,96893,Deceased,yes
+152,53,Male,Self pay,general medicine,Lisewo Malborskie,8/28/2025,11/26/2025,Emergency,General,4,70679,Improved,yes
+153,25,Male,private,oncology,Songying,9/30/2025,8/5/2025,Emergency,General,9,106235,Transferred,yes
+154,39,Female,Government,oncology,Longtanping,4/20/2025,1/5/2026,Scheduled,General,3,184739,Deceased,No
+155,59,Male,Government,general medicine,Genting,6/16/2025,4/21/2025,Emergency,General,3,183885,Deceased,yes
+156,67,Female,private,Cardiology,Le Perreux-sur-Marne,11/2/2025,11/14/2025,Scheduled,ICU,10,117240,Transferred,yes
+157,82,Male,Self pay,pediatrics,Zhongshi,12/24/2025,4/13/2025,Emergency,ICU,7,143410,Recovered,No
+158,72,Female,private,pediatrics,Bayan Ewenke Minzu,7/15/2025,2/16/2025,Scheduled,General,5,155300,Improved,No
+159,30,Male,private,pediatrics,Parlilitan,2/2/2026,3/30/2025,Scheduled,General,3,197875,Improved,No
+160,58,Female,private,emergency,Xhafzotaj,7/1/2025,12/5/2025,Scheduled,ICU,9,142154,Transferred,No
+161,2,Female,private,oncology,Naples,2/23/2025,5/6/2025,Emergency,ICU,4,168993,Improved,yes
+162,1,Male,Self pay,pediatrics,Masarayao,3/14/2025,11/25/2025,Emergency,General,5,158145,Improved,No
+163,7,Female,Government,orthopedics,Donghe,2/15/2025,3/17/2025,Scheduled,General,10,137281,Improved,No
+164,41,Female,Self pay,general medicine,Gaide,5/7/2025,11/2/2025,Emergency,General,6,110025,Deceased,No
+165,64,Male,private,orthopedics,Santa María de Jesús,2/16/2025,7/23/2025,Scheduled,ICU,4,177905,Deceased,yes
+166,15,Male,Government,pediatrics,Rungis,2/27/2025,4/14/2025,Scheduled,ICU,1,68542,Improved,yes
+167,10,Female,private,pediatrics,Bin Yauri,11/19/2025,8/16/2025,Scheduled,ICU,3,144110,Improved,yes
+168,67,Male,private,orthopedics,Veshnyaki,4/27/2025,11/5/2025,Emergency,ICU,3,75123,Recovered,No
+169,100,Female,Self pay,orthopedics,Linköping,4/19/2025,12/25/2025,Emergency,General,8,44606,Transferred,No
+170,34,Male,private,emergency,Zwolle,8/30/2025,2/5/2025,Scheduled,ICU,7,110311,Improved,yes
+171,17,Female,private,general medicine,Nanmuping,12/20/2025,12/3/2025,Emergency,ICU,9,184530,Transferred,No
+172,52,Female,Self pay,Cardiology,Rowokangkung,3/15/2025,1/5/2026,Emergency,ICU,2,61806,Deceased,No
+173,20,Male,Self pay,Cardiology,Meijiang,12/3/2025,9/6/2025,Emergency,ICU,10,95749,Improved,No
+174,99,Male,Self pay,Cardiology,Arkalyk,2/7/2025,10/10/2025,Scheduled,ICU,2,100418,Recovered,yes
+175,72,Male,private,emergency,Magallanes,9/27/2025,4/3/2025,Scheduled,General,7,97704,Deceased,No
+176,49,Female,Self pay,pediatrics,Sumuranyar,4/3/2025,5/31/2025,Emergency,General,4,67096,Transferred,No
+177,58,Female,Self pay,orthopedics,Sosnówka,12/6/2025,8/11/2025,Emergency,ICU,2,179674,Transferred,No
+178,54,Male,private,emergency,Goiânia,10/10/2025,10/16/2025,Emergency,General,6,68159,Deceased,yes
+179,11,Agender,Self pay,general medicine,Napoli,5/31/2025,11/22/2025,Emergency,General,8,38875,Improved,yes
+180,98,Bigender,Government,emergency,Praya,5/26/2025,11/15/2025,Scheduled,General,7,14880,Improved,No
+181,70,Male,Government,general medicine,Gombangan,4/2/2025,10/14/2025,Emergency,ICU,9,158103,Deceased,yes
+182,24,Female,Government,orthopedics,Vardablur,9/13/2025,3/30/2025,Scheduled,ICU,8,191530,Improved,No
+183,6,Male,Government,Cardiology,Dongsheng,1/5/2026,1/7/2026,Emergency,ICU,6,65138,Improved,yes
+184,17,Male,Self pay,emergency,Kafr Miṣr,8/28/2025,4/10/2025,Emergency,General,6,67904,Improved,No
+185,57,Female,Self pay,general medicine,Birni N Konni,9/21/2025,5/17/2025,Scheduled,General,1,33424,Recovered,No
+186,85,Non-binary,Self pay,orthopedics,Jinglou,7/4/2025,2/20/2025,Scheduled,ICU,4,63378,Improved,yes
+187,5,Female,Self pay,orthopedics,Hashimoto,10/27/2025,8/3/2025,Scheduled,ICU,8,135040,Recovered,No
+188,13,Female,private,pediatrics,Dajanrurung,8/8/2025,9/17/2025,Emergency,General,7,129139,Recovered,yes
+189,2,Male,Government,pediatrics,Graneros,1/12/2026,2/10/2025,Scheduled,ICU,5,194140,Recovered,yes
+190,56,Non-binary,Government,emergency,Kabacan,3/30/2025,6/13/2025,Emergency,General,9,139559,Deceased,yes
+191,100,Female,private,emergency,Nangka,5/5/2025,6/30/2025,Scheduled,General,9,123090,Transferred,No
+192,53,Female,Self pay,general medicine,Kedungtulup,4/22/2025,8/11/2025,Scheduled,ICU,10,53671,Deceased,No
+193,73,Female,Self pay,emergency,Thala,3/27/2025,2/6/2025,Emergency,General,2,100493,Transferred,yes
+194,80,Male,Self pay,pediatrics,Piteå,10/11/2025,9/1/2025,Scheduled,General,7,99743,Recovered,yes
+195,57,Female,private,orthopedics,Norrköping,7/15/2025,4/4/2025,Emergency,General,9,54708,Deceased,yes
+196,94,Male,private,pediatrics,Figueira,10/28/2025,7/5/2025,Scheduled,ICU,10,29358,Transferred,yes
+197,29,Male,Government,emergency,Göteborg,5/7/2025,7/11/2025,Emergency,ICU,2,179139,Recovered,yes
+198,63,Male,Self pay,Cardiology,San Antonio,4/13/2025,5/31/2025,Emergency,General,4,189955,Deceased,yes
+199,19,Male,Government,general medicine,Newport,7/11/2025,9/20/2025,Emergency,ICU,7,199251,Improved,yes
+200,49,Polygender,private,Cardiology,Nova Olímpia,7/8/2025,10/13/2025,Emergency,ICU,9,26955,Improved,yes
+201,9,Female,private,general medicine,Tempursari Wetan,5/10/2025,6/24/2025,Scheduled,ICU,2,39405,Recovered,yes
+202,62,Female,Government,pediatrics,Asempapan,2/1/2026,5/30/2025,Emergency,ICU,3,126241,Recovered,No
+203,9,Polygender,Government,general medicine,Mitú,12/26/2025,1/22/2026,Scheduled,General,3,105789,Recovered,No
+204,20,Male,Government,oncology,Daye,11/20/2025,6/1/2025,Emergency,General,9,84352,Transferred,yes
+205,1,Female,private,oncology,Phonphisai,9/12/2025,8/17/2025,Scheduled,ICU,9,30606,Improved,yes
+206,92,Male,Government,emergency,Rushanzhai,9/17/2025,10/24/2025,Emergency,ICU,2,16656,Transferred,No
+207,44,Male,Self pay,Cardiology,La Loma,8/27/2025,11/12/2025,Emergency,ICU,5,9411,Recovered,No
+208,28,Female,Self pay,general medicine,Kitahiroshima,12/16/2025,9/28/2025,Emergency,General,8,148892,Improved,yes
+209,39,Male,Self pay,oncology,Marne-la-Vallée,6/2/2025,3/2/2025,Scheduled,ICU,4,113745,Recovered,yes
+210,51,Female,private,orthopedics,Wujiaying,12/6/2025,10/28/2025,Scheduled,ICU,4,47578,Recovered,No
+211,44,Male,private,general medicine,Donglai,11/9/2025,6/6/2025,Emergency,ICU,1,128970,Transferred,yes
+212,53,Male,Self pay,pediatrics,Wyszki,11/2/2025,12/2/2025,Emergency,General,6,62982,Transferred,yes
+213,60,Female,Government,oncology,Kcynia,5/4/2025,11/10/2025,Emergency,ICU,7,45713,Deceased,No
+214,91,Bigender,Government,pediatrics,Kekeri,9/4/2025,12/28/2025,Emergency,General,10,34716,Recovered,No
+215,63,Male,Government,emergency,Alagoinhas,3/24/2025,9/18/2025,Scheduled,ICU,10,150848,Improved,yes
+216,1,Female,Government,oncology,‘Abasān al Kabīrah,7/4/2025,10/27/2025,Emergency,General,8,87736,Deceased,No
+217,69,Male,Government,general medicine,Linmansangan,2/14/2025,8/31/2025,Emergency,General,3,9657,Recovered,yes
+218,76,Male,Self pay,pediatrics,Passo Fundo,1/11/2026,5/8/2025,Emergency,ICU,9,133823,Transferred,yes
+219,28,Genderfluid,private,general medicine,Wuxia,12/21/2025,3/15/2025,Emergency,General,1,29480,Deceased,yes
+220,35,Female,Government,pediatrics,Cuiabá,2/14/2025,8/17/2025,Emergency,General,8,11899,Transferred,No
+221,37,Female,Self pay,pediatrics,Safi,10/18/2025,1/7/2026,Emergency,General,10,127928,Deceased,No
+222,99,Male,Government,general medicine,Yasenskaya,9/9/2025,6/27/2025,Emergency,ICU,9,193044,Improved,No
+223,50,Female,Government,oncology,Kafir Qala,12/11/2025,12/23/2025,Scheduled,General,7,165541,Recovered,yes
+224,70,Non-binary,Government,Cardiology,Puteaux,10/21/2025,7/25/2025,Emergency,General,1,142727,Deceased,yes
+225,98,Male,Self pay,emergency,Monte Alegre,2/22/2025,12/16/2025,Emergency,ICU,2,180616,Improved,No
+226,76,Female,Government,orthopedics,Skovorodino,9/29/2025,11/6/2025,Scheduled,ICU,9,30676,Transferred,yes
+227,79,Female,private,orthopedics,Sutukoba,6/16/2025,3/20/2025,Scheduled,General,7,184371,Transferred,No
+228,89,Female,Self pay,orthopedics,Dahedian,2/25/2025,4/27/2025,Scheduled,ICU,10,89821,Recovered,yes
+229,58,Male,private,Cardiology,Tha Ruea,4/13/2025,9/14/2025,Scheduled,ICU,6,18422,Recovered,No
+230,49,Male,Self pay,pediatrics,Folques,5/10/2025,12/30/2025,Emergency,ICU,2,122798,Recovered,yes
+231,86,Male,Self pay,emergency,Hernando,3/31/2025,5/13/2025,Scheduled,ICU,5,185103,Deceased,No
+232,97,Female,Self pay,pediatrics,Wolofeo,9/9/2025,12/29/2025,Emergency,General,2,169325,Transferred,yes
+233,45,Female,private,emergency,Nijemci,6/28/2025,5/1/2025,Emergency,ICU,8,146259,Deceased,yes
+234,75,Male,Self pay,oncology,Maradi,1/5/2026,5/22/2025,Emergency,ICU,4,5593,Deceased,yes
+235,88,Female,Self pay,emergency,Bellevue,1/9/2026,4/9/2025,Scheduled,ICU,5,13508,Transferred,No
+236,36,Male,Government,emergency,Połajewo,9/22/2025,10/3/2025,Scheduled,ICU,4,151809,Deceased,No
+237,79,Female,private,orthopedics,Glinojeck,3/15/2025,6/19/2025,Emergency,ICU,10,191883,Improved,No
+238,12,Female,Government,orthopedics,Muang Pakxan,4/10/2025,8/15/2025,Emergency,General,4,118804,Improved,No
+239,85,Female,private,emergency,Nikki,1/2/2026,12/18/2025,Emergency,ICU,4,102014,Improved,No
+240,64,Female,Government,general medicine,Agidel’,2/21/2025,4/9/2025,Emergency,ICU,2,190216,Deceased,No
+241,99,Male,private,pediatrics,Bizhbulyak,11/11/2025,4/29/2025,Emergency,ICU,2,194065,Recovered,yes
+242,6,Male,Self pay,oncology,Oyam,6/29/2025,4/2/2025,Emergency,ICU,4,94367,Recovered,yes
+243,65,Male,Self pay,emergency,Paris 02,2/21/2025,4/12/2025,Scheduled,General,8,176331,Transferred,No
+244,67,Genderfluid,Government,pediatrics,Ebene,2/15/2025,1/23/2026,Emergency,ICU,10,111316,Transferred,No
+245,54,Female,Government,orthopedics,Dapdap,5/22/2025,6/2/2025,Emergency,General,5,77363,Recovered,yes
+246,72,Female,Government,general medicine,Mikulovice,3/31/2025,1/30/2026,Emergency,ICU,5,110442,Transferred,No
+247,100,Genderfluid,private,emergency,Yuetang,2/10/2025,1/14/2026,Emergency,ICU,5,172926,Recovered,yes
+248,19,Female,Self pay,orthopedics,Kurnāz,11/5/2025,7/20/2025,Emergency,ICU,1,94838,Deceased,yes
+249,96,Male,Self pay,pediatrics,Asmara,1/20/2026,6/23/2025,Emergency,ICU,2,71109,Transferred,No
+250,90,Female,Government,orthopedics,Nîmes,9/17/2025,12/8/2025,Emergency,ICU,5,166891,Improved,No
+251,3,Genderqueer,Self pay,Cardiology,Piura,9/27/2025,3/18/2025,Emergency,General,7,81613,Transferred,No
+252,54,Female,Government,Cardiology,Labège,9/9/2025,7/21/2025,Scheduled,ICU,4,45830,Recovered,yes
+253,62,Male,Government,emergency,Springfield,9/23/2025,3/12/2025,Emergency,ICU,5,137999,Deceased,No
+254,26,Female,private,general medicine,Ebute Ikorodu,7/9/2025,8/2/2025,Scheduled,General,8,94091,Transferred,yes
+255,11,Male,Government,pediatrics,Shuanglong,9/15/2025,12/4/2025,Emergency,ICU,6,34034,Improved,yes
+256,59,Agender,Self pay,orthopedics,Songculan,10/4/2025,8/31/2025,Emergency,General,3,130771,Improved,yes
+257,36,Male,Government,oncology,Metsamor,1/22/2026,7/27/2025,Emergency,General,7,181695,Transferred,No
+258,50,Male,Self pay,pediatrics,Nicosia,5/16/2025,1/20/2026,Scheduled,General,10,43054,Improved,No
+259,49,Female,Self pay,Cardiology,Czarne,2/7/2025,9/1/2025,Scheduled,General,8,136719,Deceased,No
+260,83,Female,private,emergency,Montesson,1/12/2026,8/31/2025,Scheduled,ICU,3,146371,Deceased,No
+261,64,Female,Self pay,Cardiology,Gumuk Tengah,9/30/2025,6/9/2025,Emergency,General,9,197144,Recovered,No
+262,17,Female,Government,pediatrics,San Marcos de Colón,6/18/2025,6/4/2025,Scheduled,General,1,127442,Transferred,yes
+263,17,Male,Government,emergency,Clarin,10/11/2025,6/4/2025,Emergency,ICU,9,183174,Deceased,No
+264,84,Female,Self pay,oncology,Padaimut,8/20/2025,8/3/2025,Emergency,ICU,5,6378,Recovered,yes
+265,27,Male,private,general medicine,Menzel Bourguiba,10/5/2025,1/5/2026,Scheduled,General,10,100656,Deceased,No
+266,75,Female,Self pay,Cardiology,Chidian,7/13/2025,10/22/2025,Emergency,ICU,4,185735,Transferred,No
+267,38,Male,Self pay,emergency,Robertsport,12/14/2025,1/29/2026,Emergency,ICU,9,196238,Recovered,No
+268,58,Genderqueer,Self pay,oncology,Casais de Revelhos,10/29/2025,11/12/2025,Emergency,ICU,1,137561,Improved,No
+269,55,Male,Government,emergency,Marseille,11/1/2025,7/7/2025,Emergency,General,8,62698,Recovered,No
+270,89,Female,Government,Cardiology,Eloy Alfaro,9/1/2025,6/10/2025,Emergency,ICU,6,11247,Improved,No
+271,44,Male,private,general medicine,Dukou,3/4/2025,7/15/2025,Scheduled,ICU,2,92774,Transferred,No
+272,48,Female,Government,Cardiology,Xuanma,12/12/2025,11/2/2025,Emergency,General,9,146050,Recovered,yes
+273,3,Female,Self pay,emergency,San Diego,4/20/2025,3/7/2025,Scheduled,ICU,10,52078,Improved,No
+274,91,Female,Self pay,emergency,Silab,7/10/2025,1/18/2026,Scheduled,General,6,53376,Recovered,No
+275,67,Female,Self pay,oncology,El Playón,8/4/2025,1/6/2026,Emergency,ICU,2,97036,Improved,yes
+276,22,Female,private,pediatrics,Banjar Petak,9/19/2025,1/9/2026,Scheduled,ICU,10,74179,Transferred,yes
+277,30,Male,private,general medicine,La Paz,10/29/2025,6/17/2025,Scheduled,General,1,60249,Improved,No
+278,10,Female,Government,orthopedics,Palaihari,12/20/2025,3/17/2025,Emergency,ICU,8,182164,Recovered,yes
+279,42,Male,Self pay,emergency,Chifeng,11/12/2025,12/17/2025,Scheduled,General,7,31587,Improved,yes
+280,91,Male,Government,oncology,Tambo,11/20/2025,10/12/2025,Scheduled,ICU,7,55689,Improved,No
+281,87,Non-binary,private,oncology,Shaba Zhen,11/1/2025,12/7/2025,Emergency,General,7,49883,Deceased,yes
+282,60,Male,private,general medicine,Hanyuan,5/24/2025,5/21/2025,Emergency,General,8,146751,Transferred,No
+283,35,Male,Self pay,pediatrics,Zelenokumsk,6/5/2025,9/10/2025,Scheduled,ICU,8,6424,Transferred,No
+284,90,Genderqueer,private,emergency,Cikuray,9/18/2025,10/7/2025,Emergency,ICU,6,35408,Deceased,yes
+285,65,Male,Government,oncology,Ban Phaeo,6/18/2025,9/7/2025,Emergency,General,8,170154,Recovered,No
+286,32,Male,Self pay,Cardiology,Clodomira,12/15/2025,2/2/2026,Emergency,ICU,6,80426,Recovered,yes
+287,83,Male,Self pay,orthopedics,Dunaújváros,11/28/2025,10/9/2025,Scheduled,General,4,142100,Recovered,yes
+288,27,Female,Self pay,emergency,Sumberpandan,5/28/2025,3/31/2025,Emergency,General,6,64021,Transferred,yes
+289,95,Genderqueer,Self pay,Cardiology,Komendantsky aerodrom,12/13/2025,12/14/2025,Emergency,ICU,10,166417,Transferred,No
+290,68,Female,Self pay,pediatrics,Kohila,10/10/2025,7/1/2025,Emergency,General,5,33430,Recovered,yes
+291,71,Female,Government,orthopedics,Ōdachō-ōda,1/11/2026,12/11/2025,Emergency,ICU,5,96913,Transferred,yes
+292,43,Male,Government,pediatrics,Bayabas,4/13/2025,8/27/2025,Emergency,General,4,68715,Transferred,yes
+293,57,Female,Government,orthopedics,Guiping,4/11/2025,7/26/2025,Scheduled,General,3,96942,Recovered,No
+294,30,Male,Self pay,general medicine,Stockholm,2/9/2025,1/28/2026,Scheduled,ICU,8,103333,Improved,No
+295,69,Male,Government,orthopedics,Zeewolde,3/25/2025,4/18/2025,Emergency,ICU,6,186031,Deceased,yes
+296,56,Male,private,oncology,Kahabe,4/10/2025,10/13/2025,Scheduled,General,5,59853,Recovered,yes
+297,40,Female,Government,pediatrics,Edéa,4/21/2025,2/24/2025,Emergency,ICU,5,190379,Recovered,yes
+298,41,Male,private,Cardiology,Perre,9/10/2025,11/26/2025,Emergency,General,2,185766,Deceased,yes
+299,19,Female,Government,oncology,Ibagué,7/9/2025,2/5/2025,Emergency,General,6,114145,Transferred,yes
+300,79,Male,Self pay,Cardiology,Chicago,4/29/2025,8/25/2025,Emergency,ICU,10,184404,Deceased,No
+301,56,Male,private,emergency,Cuito,12/15/2025,7/17/2025,Emergency,ICU,2,161944,Improved,yes
+302,24,Male,Government,Cardiology,Llazicë,12/28/2025,4/10/2025,Emergency,ICU,4,39726,Recovered,No
+303,8,Female,private,emergency,Krajanbaturno,5/13/2025,10/22/2025,Emergency,General,10,150569,Recovered,yes
+304,55,Male,private,Cardiology,Jalapa,5/26/2025,2/8/2025,Emergency,ICU,4,158580,Deceased,No
+305,76,Male,Government,orthopedics,Kuching,8/16/2025,6/28/2025,Emergency,General,6,79474,Deceased,No
+306,89,Bigender,Government,pediatrics,Santo Tomas,12/29/2025,9/17/2025,Emergency,General,1,139438,Recovered,No
+307,13,Female,Government,general medicine,Kedungwringin Satu,12/9/2025,4/12/2025,Emergency,General,7,31532,Improved,No
+308,28,Female,Self pay,pediatrics,Trakai,6/19/2025,11/22/2025,Emergency,ICU,5,27681,Transferred,No
+309,26,Male,private,orthopedics,MacArthur,3/7/2025,11/17/2025,Emergency,General,4,111781,Deceased,No
+310,63,Female,private,orthopedics,Novosin’kovo,8/23/2025,12/7/2025,Emergency,General,7,22036,Improved,yes
+311,7,Male,private,orthopedics,Sasaguri,1/16/2026,7/13/2025,Emergency,ICU,5,104345,Deceased,yes
+312,59,Female,Self pay,pediatrics,Mętków,2/23/2025,2/11/2025,Scheduled,General,3,87868,Transferred,No
+313,78,Male,Self pay,Cardiology,General Roca,9/12/2025,2/16/2025,Emergency,General,10,183764,Recovered,yes
+314,90,Female,Self pay,Cardiology,Zhangduangu,10/21/2025,4/1/2025,Emergency,General,5,173663,Transferred,No
+315,46,Male,Government,orthopedics,Villeneuve-sur-Lot,2/21/2025,2/9/2025,Scheduled,General,1,157653,Transferred,No
+316,28,Female,private,Cardiology,Primorsko,2/2/2026,1/31/2026,Emergency,General,5,141989,Deceased,No
+317,50,Female,Government,pediatrics,Sernur,1/18/2026,3/16/2025,Emergency,ICU,10,80088,Deceased,No
+318,33,Female,private,pediatrics,Ryczów,1/23/2026,4/6/2025,Scheduled,General,6,55210,Recovered,No
+319,45,Male,Government,oncology,Wadung,5/17/2025,1/31/2026,Scheduled,General,10,121065,Recovered,No
+320,67,Female,private,orthopedics,Bei’an,9/10/2025,9/16/2025,Scheduled,ICU,6,122221,Transferred,No
+321,19,Polygender,Self pay,Cardiology,San Calixto,7/28/2025,12/4/2025,Scheduled,General,8,22219,Deceased,No
+322,49,Male,Government,oncology,Kosmonosy,6/4/2025,11/14/2025,Scheduled,ICU,6,167858,Recovered,No
+323,47,Polygender,Self pay,Cardiology,Miejska Górka,11/18/2025,5/11/2025,Emergency,ICU,3,108863,Recovered,No
+324,28,Female,private,pediatrics,Al Fuwayliq,9/10/2025,1/7/2026,Emergency,ICU,9,81581,Transferred,No
+325,10,Female,Self pay,general medicine,Galitsy,11/4/2025,8/4/2025,Emergency,ICU,9,146545,Deceased,yes
+326,21,Male,private,Cardiology,Kallar Kahār,4/8/2025,3/19/2025,Emergency,ICU,3,62697,Deceased,yes
+327,40,Male,Self pay,Cardiology,Sydney,4/6/2025,1/26/2026,Emergency,General,3,8827,Transferred,yes
+328,38,Genderqueer,private,general medicine,Bontoc,11/25/2025,3/19/2025,Emergency,General,3,87518,Transferred,No
+329,70,Female,Self pay,pediatrics,Colombes,8/5/2025,12/6/2025,Scheduled,General,8,79429,Improved,No
+330,69,Bigender,Self pay,emergency,Kota Bharu,10/20/2025,8/28/2025,Scheduled,ICU,3,119383,Deceased,yes
+331,19,Female,private,oncology,Lago dos Rodrigues,7/27/2025,12/20/2025,Emergency,General,4,90487,Transferred,No
+332,21,Female,Self pay,Cardiology,Nyandoma,8/6/2025,11/22/2025,Emergency,ICU,9,134224,Deceased,yes
+333,70,Female,Self pay,emergency,Lasi Dua,6/3/2025,5/21/2025,Scheduled,General,2,81153,Improved,yes
+334,87,Male,private,emergency,Minuyan,5/13/2025,2/1/2026,Emergency,General,4,185517,Deceased,No
+335,75,Male,private,pediatrics,Ciemas,12/9/2025,3/27/2025,Emergency,General,10,42776,Recovered,No
+336,27,Male,Self pay,general medicine,Rokycany,10/24/2025,4/3/2025,Scheduled,ICU,8,11901,Transferred,No
+337,78,Polygender,private,oncology,Ibrā’,12/17/2025,2/11/2025,Scheduled,General,1,108351,Recovered,yes
+338,59,Male,Government,oncology,Georgīevka,5/26/2025,11/26/2025,Scheduled,ICU,3,157349,Recovered,No
+339,61,Female,Government,Cardiology,Liuxia,3/17/2025,12/29/2025,Scheduled,ICU,5,147105,Deceased,yes
+340,12,Female,Self pay,orthopedics,Chiguirip,2/13/2025,10/5/2025,Scheduled,ICU,2,118297,Improved,No
+341,82,Male,Self pay,orthopedics,Jietou,4/14/2025,6/23/2025,Emergency,ICU,7,150535,Improved,No
+342,50,Female,private,pediatrics,Jingchuan,7/30/2025,11/1/2025,Emergency,General,1,129819,Transferred,yes
+343,100,Male,Government,orthopedics,Akron,5/22/2025,2/12/2025,Emergency,General,9,144566,Deceased,yes
+344,36,Male,private,oncology,Aricagua,2/28/2025,10/8/2025,Emergency,ICU,3,84079,Transferred,yes
+345,18,Female,Government,Cardiology,Charagua,6/7/2025,4/19/2025,Scheduled,General,7,148380,Recovered,No
+346,62,Female,Self pay,oncology,Ben Arous,3/4/2025,9/12/2025,Scheduled,ICU,4,128106,Transferred,No
+347,68,Female,private,orthopedics,Piracaia,3/5/2025,3/31/2025,Scheduled,General,2,156579,Improved,No
+348,92,Female,Self pay,general medicine,Parchowo,1/10/2026,9/25/2025,Emergency,General,4,22519,Transferred,yes
+349,57,Polygender,Self pay,pediatrics,Am Djarass,6/11/2025,6/28/2025,Emergency,ICU,4,38588,Recovered,yes
+350,72,Female,private,pediatrics,Semiring,7/28/2025,6/5/2025,Scheduled,General,4,130819,Transferred,No
+351,76,Female,Government,orthopedics,Chugur,12/26/2025,8/28/2025,Emergency,General,6,88346,Transferred,No
+352,55,Female,private,Cardiology,Liji,11/3/2025,7/23/2025,Scheduled,ICU,6,91252,Improved,yes
+353,24,Female,Government,pediatrics,Beaumont,2/22/2025,3/12/2025,Emergency,General,8,171965,Deceased,No
+354,36,Female,Government,Cardiology,Trinity Ville,12/7/2025,5/13/2025,Emergency,ICU,6,8398,Improved,No
+355,3,Male,Self pay,pediatrics,Menghai,2/11/2025,2/24/2025,Emergency,ICU,8,92192,Deceased,yes
+356,52,Male,Self pay,orthopedics,Burla,12/19/2025,3/1/2025,Emergency,ICU,3,189104,Transferred,yes
+357,33,Male,Government,orthopedics,Åkersberga,8/28/2025,7/4/2025,Scheduled,ICU,9,145229,Deceased,yes
+358,37,Female,private,pediatrics,Zhaojia,11/9/2025,9/21/2025,Scheduled,General,6,106886,Deceased,No
+359,25,Female,Self pay,Cardiology,Kalapagenep,6/29/2025,9/14/2025,Scheduled,ICU,1,109314,Transferred,No
+360,25,Female,Self pay,Cardiology,Shuanggang,1/22/2026,6/29/2025,Emergency,ICU,3,8158,Recovered,yes
+361,47,Male,private,oncology,Zhongshanmen,9/26/2025,11/14/2025,Scheduled,ICU,1,60250,Deceased,No
+362,7,Male,Government,general medicine,Kirkkonummi,6/16/2025,1/22/2026,Emergency,ICU,1,79929,Transferred,No
+363,12,Non-binary,Self pay,pediatrics,Chã,9/3/2025,6/14/2025,Emergency,ICU,7,18379,Recovered,yes
+364,8,Male,Self pay,orthopedics,Kalidung,7/8/2025,10/15/2025,Emergency,General,6,156590,Recovered,No
+365,4,Male,private,emergency,Xiachu,7/25/2025,11/27/2025,Emergency,General,2,176231,Recovered,yes
+366,87,Male,Government,orthopedics,Xiachengzi,1/13/2026,1/25/2026,Emergency,General,3,175008,Recovered,No
+367,25,Non-binary,Government,oncology,Annecy,9/18/2025,7/21/2025,Scheduled,General,8,76425,Recovered,No
+368,73,Male,Self pay,pediatrics,Luče,7/3/2025,1/8/2026,Emergency,ICU,2,164510,Recovered,yes
+369,76,Female,private,oncology,Yanyang,4/15/2025,1/26/2026,Emergency,ICU,4,188819,Recovered,yes
+370,44,Agender,Self pay,Cardiology,Cimitarra,1/12/2026,3/5/2025,Emergency,General,9,138176,Deceased,No
+371,56,Female,private,orthopedics,Saint Louis,3/7/2025,3/25/2025,Emergency,ICU,4,137981,Improved,No
+372,1,Male,Government,Cardiology,Rengo,7/21/2025,3/8/2025,Emergency,General,1,91092,Transferred,yes
+373,70,Male,private,Cardiology,Karangpari,9/15/2025,8/8/2025,Emergency,ICU,5,39594,Improved,yes
+374,5,Male,Self pay,oncology,Pesnica pri Mariboru,4/28/2025,2/4/2026,Scheduled,General,3,128228,Transferred,yes
+375,97,Female,Self pay,emergency,Huntington,8/13/2025,7/30/2025,Emergency,General,6,131272,Transferred,No
+376,73,Female,private,oncology,Sovetsk,6/24/2025,5/18/2025,Scheduled,ICU,1,131211,Transferred,yes
+377,31,Female,Government,oncology,Thành Phố Ninh Bình,1/24/2026,6/13/2025,Scheduled,General,4,14984,Deceased,No
+378,27,Male,private,Cardiology,Vannes,5/29/2025,1/4/2026,Scheduled,General,8,27034,Improved,yes
+379,32,Female,Government,oncology,Campinho,12/29/2025,6/6/2025,Emergency,ICU,6,127577,Improved,yes
+380,94,Female,Self pay,oncology,Cesson,7/14/2025,7/22/2025,Emergency,General,3,88201,Transferred,yes
+381,84,Male,Government,emergency,Nortelândia,3/6/2025,5/6/2025,Scheduled,ICU,7,81211,Improved,yes
+382,73,Male,private,orthopedics,Khalopyenichy,9/28/2025,2/21/2025,Scheduled,General,2,118854,Deceased,No
+383,13,Male,Government,Cardiology,Dolna Banya,10/30/2025,5/21/2025,Emergency,ICU,9,23825,Recovered,No
+384,8,Male,Government,Cardiology,Chorente,3/14/2025,2/3/2026,Emergency,ICU,9,83444,Deceased,No
+385,57,Female,Government,orthopedics,Genengan Kulon,9/19/2025,4/9/2025,Scheduled,General,1,88579,Recovered,yes
+386,96,Male,private,pediatrics,Dorupare,3/20/2025,8/29/2025,Emergency,General,9,153526,Recovered,No
+387,55,Male,private,Cardiology,Campurrejo,8/23/2025,1/11/2026,Emergency,General,6,197382,Improved,No
+388,1,Male,Self pay,pediatrics,Iperó,5/23/2025,10/16/2025,Scheduled,ICU,1,62647,Recovered,yes
+389,79,Male,Government,Cardiology,Kangar,1/23/2026,9/29/2025,Emergency,ICU,6,40358,Improved,No
+390,34,Male,Government,general medicine,Claremorris,10/9/2025,2/2/2026,Scheduled,General,9,46012,Improved,yes
+391,58,Male,private,oncology,Balun,9/30/2025,12/31/2025,Emergency,ICU,5,178076,Transferred,yes
+392,69,Female,private,orthopedics,Vällingby,10/23/2025,8/23/2025,Scheduled,ICU,9,51302,Transferred,yes
+393,45,Female,Self pay,Cardiology,Yên Lạc,11/7/2025,7/3/2025,Emergency,ICU,9,130003,Improved,No
+394,77,Female,Government,pediatrics,Renhe,7/29/2025,10/27/2025,Emergency,General,4,11461,Transferred,No
+395,46,Female,Self pay,Cardiology,Tocumen,10/19/2025,10/25/2025,Scheduled,ICU,2,83547,Transferred,yes
+396,32,Female,Self pay,general medicine,Kamogatachō-kamogata,11/9/2025,7/27/2025,Emergency,ICU,2,26594,Recovered,yes
+397,95,Male,Self pay,general medicine,Yaotian,7/3/2025,5/12/2025,Scheduled,General,4,118209,Deceased,No
+398,38,Male,Government,oncology,Slatyne,8/16/2025,3/7/2025,Scheduled,ICU,10,112373,Improved,No
+399,27,Female,Government,orthopedics,Lieyu,7/19/2025,6/5/2025,Emergency,General,3,143721,Improved,yes
+400,12,Female,Self pay,general medicine,Kemiri Daya,5/3/2025,8/2/2025,Emergency,General,5,172728,Transferred,yes
+401,45,Male,Self pay,Cardiology,Bichura,11/18/2025,1/1/2026,Scheduled,General,8,15128,Improved,yes
+402,95,Male,Government,general medicine,Serzedelo,4/16/2025,6/30/2025,Scheduled,ICU,6,42380,Improved,No
+403,52,Male,Government,oncology,Charlotte,6/15/2025,9/8/2025,Scheduled,ICU,10,62371,Recovered,yes
+404,95,Male,private,general medicine,Katovice,7/16/2025,8/23/2025,Scheduled,General,8,91696,Deceased,No
+405,52,Male,Government,emergency,Västerås,1/14/2026,12/2/2025,Scheduled,ICU,10,99123,Transferred,No
+406,38,Genderqueer,Self pay,pediatrics,Shuangfeng,3/21/2025,1/5/2026,Emergency,General,8,124131,Transferred,No
+407,22,Female,Self pay,general medicine,Huangdu,9/30/2025,6/8/2025,Emergency,General,4,199282,Improved,No
+408,36,Male,private,oncology,Praia da Vagueira,5/24/2025,1/28/2026,Scheduled,ICU,6,129049,Recovered,No
+409,85,Male,Self pay,pediatrics,Al Ḩarāk,5/10/2025,1/13/2026,Scheduled,General,10,72918,Deceased,yes
+410,37,Female,Self pay,Cardiology,Fengyang,10/19/2025,8/31/2025,Scheduled,General,4,73345,Deceased,yes
+411,20,Female,Self pay,emergency,Kompaniyivka,7/19/2025,12/25/2025,Scheduled,General,2,61319,Deceased,No
+412,41,Female,private,Cardiology,Don Matías,6/20/2025,6/20/2025,Emergency,ICU,9,183932,Deceased,yes
+413,23,Female,Government,pediatrics,Pā’īn-e Bāzār-e Rūdbār,1/21/2026,4/6/2025,Scheduled,ICU,9,91295,Improved,No
+414,50,Male,Government,oncology,Azara,6/11/2025,12/20/2025,Scheduled,ICU,8,184106,Recovered,No
+415,49,Female,Self pay,general medicine,Camindangan,5/3/2025,6/16/2025,Scheduled,General,7,47883,Recovered,yes
+416,73,Female,Self pay,pediatrics,Yangqing,6/25/2025,8/27/2025,Emergency,ICU,3,89366,Recovered,yes
+417,13,Male,Government,emergency,Cibitung,3/8/2025,11/19/2025,Emergency,ICU,8,160700,Recovered,No
+418,75,Male,Government,emergency,Yeniköy,12/24/2025,7/3/2025,Scheduled,ICU,10,47573,Recovered,No
+419,63,Male,private,Cardiology,Luso,11/14/2025,11/29/2025,Scheduled,General,10,110853,Improved,yes
+420,6,Male,Government,Cardiology,San Fernando,8/15/2025,2/24/2025,Emergency,General,5,37047,Improved,yes
+421,3,Male,private,general medicine,Le Tampon,10/21/2025,10/5/2025,Emergency,General,6,38577,Improved,yes
+422,86,Male,private,Cardiology,Anderstorp,9/11/2025,5/27/2025,Scheduled,ICU,10,172181,Recovered,yes
+423,79,Male,private,orthopedics,Dongshan,5/14/2025,7/24/2025,Scheduled,ICU,1,69653,Deceased,No
+424,25,Female,Government,pediatrics,Yongxing,4/7/2025,11/9/2025,Emergency,General,4,19521,Deceased,yes
+425,93,Female,Government,Cardiology,Berlin,9/28/2025,1/14/2026,Scheduled,ICU,2,109282,Improved,yes
+426,2,Male,Government,pediatrics,El Rancho,6/23/2025,7/4/2025,Emergency,General,5,122790,Recovered,yes
+427,72,Male,Government,pediatrics,Kawanoechō,2/27/2025,5/27/2025,Scheduled,ICU,4,132856,Recovered,No
+428,91,Female,Government,emergency,Langkap,2/16/2025,1/23/2026,Emergency,ICU,3,63454,Deceased,No
+429,84,Male,Self pay,emergency,Habana del Este,3/28/2025,6/9/2025,Emergency,ICU,9,171412,Transferred,yes
+430,58,Male,private,orthopedics,Horlivka,10/27/2025,6/24/2025,Scheduled,ICU,1,27218,Deceased,yes
+431,97,Female,Self pay,orthopedics,Ceibas,7/1/2025,3/9/2025,Emergency,ICU,3,45122,Transferred,No
+432,89,Female,Government,general medicine,Pļaviņas,10/12/2025,9/24/2025,Scheduled,ICU,9,68122,Improved,yes
+433,53,Female,Government,oncology,Margasari,11/30/2025,12/18/2025,Scheduled,General,7,92473,Transferred,No
+434,44,Male,Self pay,general medicine,Bačka Palanka,1/9/2026,10/7/2025,Scheduled,ICU,8,172176,Transferred,No
+435,22,Male,private,general medicine,Vetluga,10/13/2025,8/30/2025,Emergency,General,9,25240,Transferred,yes
+436,21,Male,Government,Cardiology,Yanai,2/2/2026,2/7/2025,Emergency,ICU,7,137847,Improved,No
+437,5,Male,private,emergency,Ibabang Tayuman,1/15/2026,7/14/2025,Scheduled,General,3,178131,Transferred,No
+438,96,Male,Government,pediatrics,Dembéni,8/15/2025,4/30/2025,Emergency,ICU,8,66065,Deceased,yes
+439,69,Male,Self pay,general medicine,Tongyu,1/17/2026,7/6/2025,Scheduled,ICU,2,123056,Transferred,No
+440,34,Female,Self pay,Cardiology,Sindang,8/21/2025,7/21/2025,Scheduled,General,8,12090,Transferred,No
+441,57,Male,private,Cardiology,Ríohacha,12/10/2025,5/31/2025,Emergency,General,1,41204,Deceased,No
+442,54,Male,private,general medicine,Bucheon-si,9/12/2025,8/20/2025,Scheduled,ICU,7,7660,Recovered,yes
+443,88,Female,private,orthopedics,Keffi,1/1/2026,1/1/2026,Scheduled,ICU,2,102089,Transferred,yes
+444,87,Female,private,Cardiology,Góra,12/12/2025,4/7/2025,Emergency,General,4,35022,Improved,yes
+445,77,Female,Government,emergency,Mingyu,4/27/2025,2/15/2025,Emergency,General,6,16664,Deceased,No
+446,8,Female,Government,emergency,Houston,10/5/2025,3/20/2025,Emergency,General,10,33181,Deceased,yes
+447,81,Female,private,general medicine,Waco,1/14/2026,5/30/2025,Scheduled,ICU,1,14244,Recovered,yes
+448,44,Male,private,emergency,Shuiyuan,10/31/2025,3/2/2025,Scheduled,ICU,9,132140,Improved,No
+449,9,Female,Government,orthopedics,Casuguran,9/6/2025,7/15/2025,Emergency,General,8,148645,Deceased,No
+450,58,Female,private,orthopedics,Flers,10/19/2025,12/3/2025,Emergency,General,1,198038,Recovered,No
+451,70,Male,Self pay,orthopedics,Lat Lum Kaeo,8/29/2025,3/30/2025,Scheduled,ICU,2,179421,Transferred,No
+452,66,Male,Self pay,oncology,Sigli,2/2/2026,8/11/2025,Scheduled,ICU,6,16148,Improved,No
+453,91,Female,Government,pediatrics,Liubo,6/28/2025,6/14/2025,Scheduled,ICU,3,172918,Recovered,yes
+454,19,Male,Government,emergency,Daming,8/22/2025,10/24/2025,Scheduled,General,4,134022,Transferred,No
+455,70,Female,private,pediatrics,Kotor,6/4/2025,10/20/2025,Scheduled,ICU,2,180901,Recovered,No
+456,76,Female,private,oncology,Xiaoyi,11/13/2025,6/21/2025,Scheduled,General,3,121801,Deceased,yes
+457,53,Genderfluid,Self pay,pediatrics,Al Ghizlānīyah,8/30/2025,7/27/2025,Emergency,General,4,51699,Recovered,yes
+458,86,Male,Self pay,orthopedics,Wright,3/31/2025,6/20/2025,Scheduled,General,1,71765,Transferred,No
+459,47,Male,private,general medicine,Apartadó,7/10/2025,2/26/2025,Emergency,General,9,64572,Improved,yes
+460,18,Female,private,orthopedics,Mengcheng Chengguanzhen,11/23/2025,5/18/2025,Scheduled,General,10,51938,Deceased,No
+461,74,Female,private,oncology,Lemland,10/4/2025,7/7/2025,Scheduled,ICU,1,39157,Improved,yes
+462,74,Female,Self pay,Cardiology,Skene,1/24/2026,2/22/2025,Emergency,ICU,5,57449,Transferred,No
+463,99,Male,Self pay,orthopedics,Levin,1/1/2026,8/20/2025,Scheduled,ICU,2,45651,Deceased,yes
+464,19,Female,Government,emergency,Trollhättan,1/11/2026,6/29/2025,Emergency,General,8,74632,Improved,yes
+465,85,Female,private,oncology,Abrantes,1/29/2026,4/22/2025,Scheduled,ICU,7,21244,Recovered,yes
+466,25,Male,Government,general medicine,Thành Phố Nam Định,9/14/2025,4/24/2025,Emergency,General,1,173787,Improved,No
+467,49,Male,Self pay,pediatrics,Carson City,11/25/2025,10/15/2025,Emergency,ICU,3,8962,Deceased,yes
+468,55,Female,Self pay,orthopedics,Huangtan,9/16/2025,12/3/2025,Emergency,ICU,2,145741,Transferred,No
+469,17,Male,Government,oncology,Georgīevka,7/13/2025,4/8/2025,Emergency,General,4,149410,Recovered,yes
+470,2,Bigender,Government,general medicine,Sete Cidades,5/18/2025,12/2/2025,Emergency,General,2,140974,Improved,yes
+471,22,Female,Self pay,Cardiology,Esso,4/12/2025,10/3/2025,Emergency,ICU,8,16111,Improved,yes
+472,4,Female,Self pay,emergency,San Juan Pueblo,8/3/2025,9/15/2025,Scheduled,ICU,2,63594,Recovered,yes
+473,53,Female,private,Cardiology,Horní Čermná,12/12/2025,12/17/2025,Scheduled,ICU,7,41251,Improved,No
+474,53,Male,private,oncology,Papringan,11/27/2025,5/26/2025,Emergency,General,7,136305,Deceased,yes
+475,80,Female,Government,pediatrics,Alhos Vedros,8/13/2025,7/4/2025,Emergency,General,10,22879,Recovered,No
+476,87,Male,private,pediatrics,Sanhe,1/23/2026,8/14/2025,Emergency,ICU,10,53707,Deceased,yes
+477,12,Polygender,Self pay,emergency,Tanarara,9/23/2025,10/2/2025,Emergency,ICU,6,46423,Recovered,yes
+478,36,Female,Self pay,general medicine,Kenarilang,9/16/2025,3/11/2025,Emergency,General,6,191668,Deceased,No
+479,87,Female,private,emergency,Ivry-sur-Seine,8/15/2025,11/22/2025,Emergency,General,8,153592,Transferred,No
+480,90,Female,Government,Cardiology,Puncaktugu,7/11/2025,7/7/2025,Emergency,General,6,154046,Improved,yes
+481,36,Female,private,pediatrics,Paris La Défense,9/15/2025,10/15/2025,Emergency,ICU,10,158654,Transferred,yes
+482,37,Male,Self pay,pediatrics,Faīẕābād,7/22/2025,6/19/2025,Scheduled,ICU,7,198697,Improved,yes
+483,60,Female,private,general medicine,Kylmäkoski,3/4/2025,7/22/2025,Emergency,ICU,7,43325,Transferred,No
+484,45,Female,private,Cardiology,Juan de Acosta,10/4/2025,4/21/2025,Scheduled,ICU,1,187880,Improved,yes
+485,49,Bigender,Self pay,general medicine,Humaitá,8/31/2025,4/20/2025,Scheduled,General,1,6000,Improved,yes
+486,75,Female,Government,Cardiology,Banquero,12/23/2025,3/26/2025,Scheduled,ICU,10,96209,Deceased,yes
+487,7,Male,private,Cardiology,Castelo,9/3/2025,6/5/2025,Scheduled,ICU,3,53603,Transferred,yes
+488,84,Male,private,emergency,Ximei,3/15/2025,10/26/2025,Emergency,General,4,103999,Improved,No
+489,12,Female,private,emergency,Daxinshao,5/18/2025,2/20/2025,Emergency,General,4,174771,Recovered,No
+490,74,Female,Self pay,emergency,Ccatca,8/11/2025,12/22/2025,Emergency,General,7,156258,Transferred,yes
+491,88,Male,Government,general medicine,Turku,5/9/2025,8/1/2025,Scheduled,ICU,10,95848,Transferred,No
+492,51,Female,private,orthopedics,Wanareja,5/26/2025,1/21/2026,Scheduled,ICU,3,133414,Deceased,No
+493,91,Bigender,Government,general medicine,Xuhui,1/10/2026,9/20/2025,Scheduled,General,1,98007,Transferred,yes
+494,97,Female,Self pay,emergency,Hepu,1/30/2026,6/5/2025,Scheduled,General,10,64582,Recovered,No
+495,22,Female,private,orthopedics,Valada,3/28/2025,5/11/2025,Emergency,ICU,6,38214,Improved,No
+496,82,Female,private,oncology,Pines,12/16/2025,4/19/2025,Scheduled,ICU,4,193338,Deceased,No
+497,2,Male,Self pay,pediatrics,Vale Covo,12/27/2025,2/28/2025,Emergency,ICU,7,23189,Transferred,No
+498,69,Male,private,emergency,Mokolo,11/4/2025,2/26/2025,Scheduled,ICU,5,38396,Transferred,yes
+499,41,Male,Self pay,emergency,Biao,1/28/2026,10/20/2025,Emergency,General,2,49152,Recovered,yes
+500,37,Male,Government,oncology,Guadalupe,2/10/2025,8/14/2025,Emergency,General,4,19167,Recovered,No
+501,96,Female,Self pay,general medicine,Clarence-Rockland,5/7/2025,8/12/2025,Scheduled,General,8,91868,Improved,No
+502,39,Non-binary,private,oncology,Tabio,3/29/2025,3/7/2025,Emergency,General,3,130250,Improved,No
+503,89,Genderfluid,Government,general medicine,Laoxialu,2/9/2025,9/4/2025,Scheduled,ICU,9,179079,Deceased,yes
+504,82,Male,private,orthopedics,Miami Beach,4/29/2025,2/7/2025,Emergency,General,8,136861,Recovered,No
+505,91,Female,Government,emergency,Bang Rakam,9/20/2025,2/20/2025,Scheduled,General,10,178905,Transferred,yes
+506,29,Male,Government,pediatrics,Semiletka,11/2/2025,8/10/2025,Scheduled,General,2,175485,Improved,yes
+507,88,Genderfluid,private,oncology,Jiucaizhuang,2/12/2025,4/19/2025,Emergency,ICU,4,114236,Recovered,yes
+508,77,Female,Government,emergency,Rossosh’,12/24/2025,5/25/2025,Emergency,ICU,9,174225,Recovered,No
+509,83,Genderfluid,private,pediatrics,Kanbe,4/2/2025,3/17/2025,Emergency,ICU,8,182535,Transferred,yes
+510,86,Agender,Government,Cardiology,Rungis,7/15/2025,8/26/2025,Emergency,ICU,8,140206,Deceased,No
+511,67,Male,Self pay,Cardiology,Thaon-les-Vosges,7/19/2025,3/13/2025,Scheduled,ICU,1,179733,Deceased,No
+512,61,Bigender,Self pay,Cardiology,Laweueng,7/30/2025,4/12/2025,Emergency,General,5,43036,Transferred,yes
+513,50,Male,private,Cardiology,Heka,4/12/2025,4/27/2025,Emergency,General,6,191077,Deceased,yes
+514,11,Female,Self pay,Cardiology,Karanlukh,3/9/2025,11/18/2025,Emergency,ICU,2,53309,Transferred,No
+515,11,Male,private,pediatrics,Jijiga,5/26/2025,3/18/2025,Scheduled,ICU,1,5319,Transferred,No
+516,31,Male,Self pay,Cardiology,Karanggedang,3/7/2025,11/14/2025,Emergency,ICU,8,187521,Recovered,No
+517,8,Male,Government,pediatrics,Loma Alta,4/30/2025,1/29/2026,Emergency,General,5,85743,Improved,yes
+518,43,Female,Self pay,orthopedics,Delcevo,9/24/2025,12/28/2025,Emergency,ICU,1,121185,Improved,No
+519,72,Female,private,emergency,Wang Noi,5/20/2025,4/4/2025,Scheduled,ICU,2,63512,Recovered,yes
+520,54,Female,private,emergency,Kyaikkami,1/6/2026,1/21/2026,Scheduled,ICU,2,44173,Transferred,yes
+521,26,Male,private,Cardiology,Shuanglong,10/11/2025,2/17/2025,Scheduled,General,6,73376,Improved,yes
+522,50,Male,Self pay,orthopedics,Ivouani,10/2/2025,7/27/2025,Emergency,General,3,71758,Improved,yes
+523,41,Female,private,oncology,Castanheira,9/11/2025,4/14/2025,Emergency,General,9,56524,Deceased,No
+524,38,Female,private,emergency,Oyama,12/27/2025,10/15/2025,Scheduled,ICU,7,70202,Deceased,No
+525,37,Male,Government,pediatrics,Cerro Colorado,12/6/2025,9/4/2025,Emergency,General,3,125783,Deceased,No
+526,27,Genderqueer,Government,orthopedics,Nīkshahr,12/14/2025,9/14/2025,Emergency,ICU,2,72662,Recovered,yes
+527,50,Male,Government,oncology,Capelinha,9/3/2025,10/8/2025,Scheduled,General,4,153065,Transferred,yes
+528,5,Female,private,pediatrics,Nahariya,4/23/2025,1/17/2026,Emergency,ICU,7,101649,Deceased,yes
+529,63,Male,Government,general medicine,Hancheng,7/3/2025,4/18/2025,Scheduled,General,6,133092,Improved,yes
+530,86,Female,Government,oncology,Drawno,8/10/2025,11/28/2025,Scheduled,ICU,7,93162,Deceased,yes
+531,52,Female,private,orthopedics,Dazhipo,10/22/2025,6/2/2025,Emergency,General,3,145412,Improved,No
+532,20,Genderfluid,Self pay,pediatrics,Mondoteko,6/27/2025,4/27/2025,Scheduled,General,2,167284,Recovered,No
+533,34,Male,Government,oncology,Al Ghizlānīyah,11/10/2025,2/11/2025,Emergency,General,5,175190,Recovered,No
+534,51,Female,private,oncology,Smederevo,8/2/2025,6/18/2025,Scheduled,General,1,177601,Deceased,yes
+535,60,Female,Government,Cardiology,San Antonio Oeste,10/17/2025,4/12/2025,Emergency,General,6,43856,Recovered,yes
+536,98,Male,Government,oncology,San Diego,9/9/2025,12/5/2025,Emergency,General,5,173689,Deceased,yes
+537,27,Male,Government,Cardiology,Pirojpur,12/17/2025,2/13/2025,Scheduled,ICU,6,68292,Recovered,yes
+538,49,Female,private,pediatrics,Bene 'Ayish,9/24/2025,5/18/2025,Emergency,General,7,50572,Transferred,No
+539,26,Male,Government,oncology,Tebara,6/3/2025,8/12/2025,Scheduled,General,9,96771,Recovered,No
+540,68,Male,Government,orthopedics,Čortanovci,1/21/2026,4/24/2025,Scheduled,ICU,9,15150,Recovered,yes
+541,72,Male,Self pay,oncology,Shirone,1/10/2026,1/16/2026,Emergency,ICU,7,147413,Transferred,No
+542,22,Female,Government,general medicine,Wasquehal,2/11/2025,3/30/2025,Scheduled,General,9,180272,Improved,No
+543,64,Male,Government,oncology,Maninihon,11/7/2025,9/16/2025,Scheduled,General,4,117653,Transferred,yes
+544,41,Female,Government,orthopedics,Ostroměř,2/9/2025,4/15/2025,Emergency,General,8,155107,Deceased,No
+545,21,Female,Government,oncology,Mocupe,11/27/2025,1/20/2026,Scheduled,ICU,10,51955,Transferred,No
+546,2,Female,Self pay,orthopedics,Bangxi,1/7/2026,4/6/2025,Scheduled,General,3,136035,Improved,No
+547,93,Female,Self pay,emergency,Piława Górna,8/3/2025,2/25/2025,Emergency,ICU,7,23840,Transferred,No
+548,22,Male,private,orthopedics,Fuyang,12/12/2025,8/1/2025,Scheduled,ICU,5,94523,Improved,No
+549,91,Male,Self pay,oncology,Fenghua,10/22/2025,5/27/2025,Scheduled,General,5,101726,Transferred,yes
+550,75,Male,private,general medicine,Malibago,6/1/2025,2/5/2025,Emergency,ICU,7,5828,Improved,No
+551,64,Female,private,oncology,Loukísia,2/6/2025,7/7/2025,Emergency,ICU,10,114627,Deceased,yes
+552,72,Male,private,emergency,Cruzeiro,1/6/2026,5/13/2025,Emergency,General,3,109703,Improved,yes
+553,9,Female,Self pay,Cardiology,Jiantang,6/8/2025,1/18/2026,Scheduled,ICU,8,105050,Recovered,No
+554,100,Female,private,Cardiology,Mỹ Xuyên,8/5/2025,10/27/2025,Emergency,ICU,4,62261,Deceased,No
+555,29,Male,Self pay,emergency,Bāqim as Sūq,3/27/2025,9/10/2025,Scheduled,General,3,77540,Transferred,yes
+556,19,Female,private,general medicine,Qishn,6/7/2025,9/23/2025,Scheduled,General,3,106202,Recovered,No
+557,75,Agender,Government,general medicine,Tshaneni,4/20/2025,8/8/2025,Scheduled,General,10,148112,Improved,No
+558,28,Agender,Self pay,emergency,Sukowono,7/21/2025,7/4/2025,Emergency,General,3,82016,Recovered,yes
+559,40,Female,private,orthopedics,Diapaga,6/13/2025,11/8/2025,Emergency,General,3,176508,Transferred,No
+560,71,Male,Self pay,general medicine,Simpang,4/23/2025,2/12/2025,Scheduled,General,3,110505,Improved,yes
+561,74,Male,private,orthopedics,Haiyu,2/13/2025,8/1/2025,Scheduled,ICU,9,35766,Deceased,No
+562,9,Female,Self pay,oncology,Lyski,2/11/2025,11/30/2025,Emergency,General,3,149500,Recovered,No
+563,58,Female,Government,emergency,Shitouhe,5/8/2025,3/27/2025,Scheduled,ICU,4,100266,Transferred,yes
+564,2,Female,Government,general medicine,Pailiao,12/15/2025,4/27/2025,Scheduled,General,6,117772,Deceased,No
+565,27,Female,Self pay,emergency,Tuanjie,3/25/2025,11/6/2025,Emergency,ICU,8,39008,Improved,yes
+566,20,Male,Self pay,general medicine,Hetou,10/20/2025,5/18/2025,Scheduled,General,9,31582,Transferred,No
+567,36,Male,private,orthopedics,Cabricán,11/27/2025,4/5/2025,Emergency,ICU,3,131735,Deceased,No
+568,17,Female,Government,orthopedics,Tirtopuro,1/9/2026,5/10/2025,Emergency,ICU,6,73828,Transferred,yes
+569,79,Female,private,oncology,Nusajaya,3/27/2025,1/14/2026,Emergency,ICU,10,139082,Transferred,No
+570,27,Male,Self pay,emergency,Outlook,4/27/2025,7/20/2025,Scheduled,General,7,154057,Deceased,No
+571,75,Female,Self pay,pediatrics,Póvoa de Santo António,6/17/2025,4/13/2025,Scheduled,ICU,9,23579,Transferred,No
+572,99,Male,Self pay,pediatrics,Knysna,6/19/2025,12/21/2025,Scheduled,ICU,6,10388,Deceased,No
+573,13,Female,Government,pediatrics,Hulyaypole,8/19/2025,4/28/2025,Scheduled,General,7,185896,Recovered,yes
+574,54,Male,Self pay,emergency,Hoxtolgay,8/29/2025,5/11/2025,Scheduled,General,4,53036,Improved,yes
+575,74,Male,private,emergency,Calidñgan,2/4/2026,3/10/2025,Scheduled,General,7,179376,Recovered,No
+576,52,Male,Government,emergency,Kiten,1/3/2026,9/29/2025,Scheduled,General,2,182149,Improved,No
+577,93,Male,Government,general medicine,Biała Piska,3/19/2025,2/12/2025,Emergency,General,7,135527,Transferred,yes
+578,56,Female,Government,oncology,Shigu,12/1/2025,2/18/2025,Emergency,ICU,6,198632,Improved,yes
+579,64,Female,Self pay,oncology,Żarów,10/19/2025,4/25/2025,Scheduled,General,4,171613,Deceased,yes
+580,36,Male,Self pay,Cardiology,Moscow,1/16/2026,5/15/2025,Scheduled,ICU,3,116389,Recovered,yes
+581,37,Non-binary,Self pay,emergency,Naghalin,10/2/2025,12/14/2025,Emergency,General,6,92010,Transferred,No
+582,21,Male,Government,orthopedics,Longshan,1/18/2026,12/21/2025,Emergency,General,5,18192,Recovered,yes
+583,24,Male,Self pay,emergency,Dokolo,10/22/2025,8/11/2025,Scheduled,ICU,7,45579,Improved,yes
+584,18,Male,private,general medicine,Teresina,8/4/2025,4/5/2025,Emergency,General,9,141026,Improved,No
+585,12,Male,private,oncology,Värnamo,2/20/2025,2/26/2025,Emergency,General,5,154427,Transferred,yes
+586,57,Male,Self pay,pediatrics,Barakani,6/23/2025,6/30/2025,Scheduled,ICU,7,166352,Recovered,yes
+587,12,Male,Government,orthopedics,Kabūdarāhang,1/14/2026,8/9/2025,Emergency,General,7,12906,Transferred,yes
+588,88,Female,Self pay,Cardiology,Aviúges,4/5/2025,3/27/2025,Scheduled,General,1,174411,Transferred,yes
+589,8,Male,private,orthopedics,Sumber Tengah,10/27/2025,7/31/2025,Scheduled,ICU,8,193465,Improved,No
+590,2,Female,Government,pediatrics,Shiyaogou,1/18/2026,3/9/2025,Emergency,General,6,122867,Deceased,No
+591,56,Male,Self pay,orthopedics,Etinan,5/11/2025,11/28/2025,Emergency,ICU,4,189210,Recovered,yes
+592,27,Male,Government,emergency,Padre Paraíso,9/25/2025,8/23/2025,Scheduled,General,2,121302,Deceased,No
+593,64,Female,private,pediatrics,Maoyang,12/23/2025,7/28/2025,Scheduled,General,10,19734,Deceased,yes
+594,61,Female,private,Cardiology,Kastsyukowka,9/3/2025,11/27/2025,Scheduled,ICU,9,187990,Deceased,No
+595,73,Female,private,Cardiology,Kabar Utara,12/22/2025,3/20/2025,Scheduled,ICU,3,168823,Recovered,yes
+596,35,Female,Government,oncology,Oemanu,11/15/2025,7/3/2025,Scheduled,ICU,2,156616,Improved,yes
+597,88,Female,private,general medicine,Kuantan,1/18/2026,9/25/2025,Scheduled,General,1,172308,Deceased,No
+598,27,Female,Self pay,oncology,Tanamiting,12/4/2025,4/2/2025,Scheduled,General,5,146541,Recovered,yes
+599,90,Male,Government,oncology,Milwaukee,6/12/2025,10/31/2025,Scheduled,General,2,90686,Transferred,No
+600,49,Male,private,pediatrics,Fuling,8/27/2025,11/7/2025,Scheduled,ICU,5,43863,Recovered,yes
+601,84,Bigender,private,general medicine,Hukeng,3/22/2025,7/16/2025,Scheduled,General,6,73295,Transferred,No
+602,14,Female,Self pay,orthopedics,Xinhe,8/8/2025,2/2/2026,Emergency,ICU,6,109621,Transferred,No
+603,97,Male,Government,pediatrics,Huakoulongtan,10/21/2025,6/29/2025,Emergency,General,6,176564,Improved,No
+604,9,Female,private,oncology,Tange Zhen,6/10/2025,4/13/2025,Emergency,ICU,8,108687,Improved,yes
+605,76,Female,Self pay,general medicine,Baláo,10/25/2025,1/12/2026,Emergency,ICU,8,190798,Transferred,yes
+606,19,Non-binary,Government,pediatrics,Shizukuishi,4/9/2025,8/27/2025,Scheduled,ICU,6,143636,Transferred,No
+607,38,Male,private,emergency,Ravne,4/10/2025,5/28/2025,Emergency,ICU,8,67947,Improved,No
+608,18,Male,private,emergency,Solna,11/23/2025,11/17/2025,Scheduled,General,3,98596,Improved,yes
+609,90,Male,private,orthopedics,Grande Cache,11/12/2025,5/22/2025,Emergency,General,7,102078,Improved,yes
+610,18,Female,Government,emergency,Tonekābon,11/13/2025,11/8/2025,Emergency,ICU,5,87041,Deceased,No
+611,22,Female,private,general medicine,Jinhui,3/4/2025,1/4/2026,Scheduled,General,2,115676,Transferred,yes
+612,27,Female,Government,emergency,Piltown,6/24/2025,7/29/2025,Scheduled,General,5,98210,Recovered,yes
+613,21,Male,private,pediatrics,Älmhult,9/14/2025,1/10/2026,Emergency,General,7,5450,Deceased,yes
+614,95,Female,private,emergency,Vales,2/5/2025,1/20/2026,Scheduled,General,10,116199,Deceased,No
+615,48,Non-binary,Government,general medicine,Malakwal City,8/4/2025,8/4/2025,Scheduled,ICU,4,110681,Recovered,No
+616,80,Male,private,Cardiology,Jincheng,7/12/2025,5/23/2025,Scheduled,General,8,196290,Recovered,No
+617,35,Male,Government,Cardiology,Huoche Xizhan,3/20/2025,10/15/2025,Scheduled,General,5,124086,Improved,No
+618,35,Male,private,Cardiology,Radovitskiy,4/9/2025,9/17/2025,Scheduled,General,6,87547,Recovered,yes
+619,91,Non-binary,Self pay,general medicine,Invermere,8/14/2025,3/11/2025,Scheduled,General,1,83883,Recovered,No
+620,3,Female,Self pay,orthopedics,Tanshan,11/28/2025,5/25/2025,Scheduled,General,5,34303,Deceased,yes
+621,73,Female,private,orthopedics,Antigonish,7/10/2025,1/29/2026,Scheduled,General,9,174175,Recovered,yes
+622,25,Male,Government,Cardiology,Sambopinggir,2/12/2025,5/16/2025,Emergency,General,7,126947,Transferred,No
+623,25,Male,Government,oncology,Xinchong,6/28/2025,7/2/2025,Emergency,ICU,7,89486,Transferred,yes
+624,5,Male,Government,oncology,Floirac,12/28/2025,1/14/2026,Scheduled,ICU,1,75001,Deceased,yes
+625,5,Male,Self pay,oncology,Pasirputih,9/18/2025,7/28/2025,Emergency,General,5,177976,Improved,No
+626,74,Male,Government,emergency,Pokrov,2/27/2025,12/11/2025,Emergency,General,2,133865,Recovered,No
+627,25,Female,private,Cardiology,Fuchun,9/18/2025,3/22/2025,Scheduled,General,6,37276,Deceased,No
+628,7,Female,Government,general medicine,Cileueur,9/29/2025,2/12/2025,Emergency,ICU,4,50145,Improved,No
+629,61,Male,Self pay,general medicine,San Juan de Mata,7/16/2025,9/18/2025,Emergency,General,4,127814,Transferred,No
+630,8,Female,private,orthopedics,Margoyoso,9/7/2025,6/16/2025,Emergency,ICU,4,62839,Improved,No
+631,64,Female,Government,pediatrics,Bairro do Margaça,7/26/2025,10/28/2025,Emergency,ICU,10,31661,Transferred,yes
+632,89,Male,Government,general medicine,Yishi,5/7/2025,8/4/2025,Scheduled,General,8,103129,Deceased,No
+633,43,Female,Self pay,orthopedics,Encañada,10/6/2025,10/16/2025,Emergency,ICU,3,37557,Recovered,yes
+634,9,Male,Government,oncology,Kuala Tuha,8/10/2025,2/6/2025,Scheduled,General,1,39857,Transferred,No
+635,34,Female,private,pediatrics,Sukadana,4/25/2025,3/14/2025,Scheduled,General,9,127231,Improved,yes
+636,85,Male,Self pay,Cardiology,Dū Qal‘ah,4/6/2025,2/13/2025,Emergency,ICU,2,115359,Transferred,No
+637,41,Male,private,oncology,Maracás,2/6/2025,7/10/2025,Emergency,General,5,111944,Recovered,No
+638,62,Female,Government,orthopedics,Shanghuang,1/28/2026,10/27/2025,Scheduled,General,6,48920,Recovered,No
+639,58,Genderfluid,private,pediatrics,Tiko,4/26/2025,12/31/2025,Scheduled,General,7,121244,Improved,yes
+640,42,Non-binary,Self pay,emergency,Kunshan,7/24/2025,1/4/2026,Emergency,ICU,9,142676,Transferred,yes
+641,30,Female,Self pay,orthopedics,Rubiataba,7/19/2025,11/4/2025,Emergency,General,7,105710,Recovered,yes
+642,91,Female,Government,orthopedics,Mingguang,6/12/2025,3/5/2025,Emergency,General,6,80546,Improved,No
+643,32,Male,Government,Cardiology,Kukushtan,4/11/2025,9/25/2025,Emergency,ICU,8,106871,Deceased,yes
+644,81,Female,Government,emergency,Mikun’,11/4/2025,3/21/2025,Emergency,General,3,92508,Deceased,No
+645,5,Female,private,orthopedics,Tanakawu Dua,2/10/2025,4/15/2025,Emergency,General,2,71149,Recovered,No
+646,68,Male,Self pay,orthopedics,Shuanglongchang,10/4/2025,6/12/2025,Scheduled,ICU,9,169957,Deceased,yes
+647,74,Female,Government,general medicine,Vilares,9/27/2025,12/19/2025,Emergency,ICU,2,96099,Transferred,No
+648,47,Female,private,emergency,Skalánion,6/14/2025,3/20/2025,Emergency,ICU,6,26692,Transferred,No
+649,11,Female,Self pay,pediatrics,Carabamba,9/30/2025,3/10/2025,Scheduled,General,7,152280,Transferred,yes
+650,73,Non-binary,private,emergency,Keelung,6/9/2025,1/27/2026,Emergency,General,4,127706,Recovered,yes
+651,63,Male,Self pay,pediatrics,Dongjie,8/25/2025,12/1/2025,Emergency,General,6,79192,Deceased,yes
+652,44,Male,private,orthopedics,Socos,12/16/2025,9/24/2025,Emergency,ICU,1,54152,Recovered,No
+653,31,Female,Self pay,oncology,El Potrero,8/16/2025,12/8/2025,Scheduled,General,7,44218,Transferred,yes
+654,47,Female,private,general medicine,Niort,11/27/2025,2/23/2025,Scheduled,ICU,8,65146,Transferred,yes
+655,83,Polygender,private,oncology,San Fernando de Monte Cristi,10/22/2025,12/27/2025,Emergency,ICU,5,156055,Improved,No
+656,81,Male,Government,general medicine,Medeiros Neto,8/8/2025,6/5/2025,Emergency,General,9,148720,Deceased,yes
+657,47,Bigender,private,Cardiology,Vancouver,12/22/2025,6/13/2025,Emergency,General,5,8482,Recovered,No
+658,33,Male,Self pay,orthopedics,Tân An,9/28/2025,1/21/2026,Emergency,General,5,134489,Recovered,yes
+659,27,Male,Self pay,orthopedics,Kembangkerang Satu,2/19/2025,12/29/2025,Scheduled,General,9,105415,Recovered,No
+660,38,Male,Government,orthopedics,Nagato,3/14/2025,10/28/2025,Emergency,General,7,62884,Recovered,No
+661,70,Male,private,general medicine,Naghalin,12/11/2025,2/17/2025,Emergency,ICU,6,61421,Deceased,yes
+662,53,Male,Government,pediatrics,Oxelösund,3/7/2025,12/20/2025,Emergency,General,7,85835,Recovered,No
+663,71,Bigender,Self pay,orthopedics,Mishan,4/6/2025,9/11/2025,Scheduled,General,2,195706,Transferred,No
+664,4,Female,Government,oncology,Momignies,9/18/2025,5/26/2025,Scheduled,ICU,6,83897,Transferred,No
+665,18,Male,Government,Cardiology,Jincheng,8/1/2025,3/27/2025,Emergency,ICU,9,8706,Deceased,No
+666,81,Female,Government,emergency,Shimeitang,8/29/2025,3/4/2025,Emergency,ICU,9,93632,Transferred,yes
+667,24,Genderfluid,private,emergency,Goya,8/28/2025,12/11/2025,Scheduled,ICU,8,127559,Recovered,yes
+668,2,Male,private,emergency,Pisang,9/1/2025,1/14/2026,Scheduled,ICU,6,9900,Recovered,yes
+669,52,Male,private,emergency,Oesain,4/16/2025,3/17/2025,Scheduled,General,8,50869,Transferred,yes
+670,35,Male,private,oncology,San Isidro,6/29/2025,12/21/2025,Scheduled,General,6,125600,Recovered,No
+671,76,Male,Self pay,orthopedics,Valencia,8/26/2025,10/1/2025,Emergency,ICU,10,101703,Deceased,yes
+672,69,Male,Government,Cardiology,Libertad,8/23/2025,8/25/2025,Scheduled,General,8,106553,Improved,No
+673,99,Male,Government,Cardiology,Marco,7/30/2025,10/30/2025,Scheduled,General,3,20089,Transferred,yes
+674,41,Male,Self pay,Cardiology,Sumberpandan,12/21/2025,9/10/2025,Emergency,General,4,22848,Recovered,yes
+675,96,Female,Self pay,pediatrics,Labangka Satu,10/2/2025,6/1/2025,Emergency,ICU,6,171812,Deceased,yes
+676,22,Female,private,pediatrics,Jiangna,12/23/2025,4/17/2025,Emergency,ICU,7,32438,Improved,yes
+677,84,Male,Government,general medicine,Lourdes,11/30/2025,6/22/2025,Emergency,ICU,7,69961,Transferred,yes
+678,45,Male,Self pay,general medicine,Itápolis,2/23/2025,5/17/2025,Scheduled,ICU,9,17028,Transferred,No
+679,87,Male,Self pay,pediatrics,Argithéa,6/21/2025,1/31/2026,Scheduled,General,9,152830,Recovered,No
+680,73,Male,Self pay,general medicine,Shuangxiqiao,8/7/2025,1/20/2026,Emergency,General,10,139005,Improved,No
+681,22,Female,Self pay,emergency,Cijoho,7/31/2025,1/8/2026,Emergency,ICU,1,21792,Transferred,yes
+682,7,Female,Government,orthopedics,Looc,4/8/2025,7/20/2025,Scheduled,ICU,6,118643,Improved,No
+683,73,Male,Government,emergency,Nugas,10/1/2025,10/26/2025,Scheduled,General,3,30555,Transferred,yes
+684,77,Male,private,general medicine,Yanghong,1/28/2026,5/14/2025,Emergency,ICU,3,111448,Deceased,No
+685,64,Female,Self pay,orthopedics,Gaotuo,12/13/2025,11/2/2025,Scheduled,General,3,186165,Recovered,yes
+686,68,Female,private,Cardiology,Machikou,10/10/2025,5/1/2025,Scheduled,ICU,8,24818,Improved,yes
+687,39,Male,Government,pediatrics,Beaung Tengah,12/17/2025,1/27/2026,Emergency,General,1,187655,Transferred,No
+688,72,Female,Government,pediatrics,Bačka Topola,4/30/2025,1/27/2026,Emergency,General,3,100022,Improved,No
+689,6,Female,private,emergency,Erátyra,9/25/2025,9/30/2025,Scheduled,General,7,131778,Deceased,yes
+690,21,Female,Government,oncology,Bun Barat,10/4/2025,5/3/2025,Scheduled,ICU,5,53785,Recovered,yes
+691,86,Male,Self pay,orthopedics,Santo Tomás,1/12/2026,7/10/2025,Emergency,ICU,3,184359,Recovered,No
+692,89,Male,private,emergency,Meneou,5/29/2025,8/29/2025,Emergency,General,9,36181,Deceased,yes
+693,18,Male,Government,Cardiology,Autun,1/12/2026,4/27/2025,Emergency,General,3,62814,Transferred,yes
+694,40,Male,Government,emergency,Leninsk,3/10/2025,10/22/2025,Scheduled,General,3,157115,Recovered,yes
+695,48,Female,private,pediatrics,Зуунмод,10/25/2025,3/17/2025,Scheduled,ICU,4,143812,Transferred,No
+696,90,Female,Government,Cardiology,Jingping,6/20/2025,9/8/2025,Emergency,ICU,5,11232,Deceased,yes
+697,45,Male,Self pay,oncology,Huaqiu,12/29/2025,3/19/2025,Emergency,General,3,82600,Deceased,yes
+698,77,Male,Government,pediatrics,Káto Glikóvrisi,6/13/2025,7/5/2025,Emergency,ICU,5,94496,Transferred,No
+699,96,Bigender,Self pay,oncology,Douala,3/28/2025,7/2/2025,Emergency,General,4,92767,Improved,No
+700,60,Male,private,orthopedics,Tupiza,9/7/2025,9/23/2025,Emergency,ICU,1,35217,Deceased,yes
+701,50,Male,Government,general medicine,Cardal,4/1/2025,2/16/2025,Scheduled,General,2,87000,Improved,yes
+702,78,Female,Self pay,orthopedics,K’ulashi,6/11/2025,8/2/2025,Scheduled,General,7,154132,Recovered,yes
+703,45,Female,Self pay,orthopedics,Malhão,1/3/2026,7/2/2025,Scheduled,General,7,120966,Improved,yes
+704,77,Male,Government,orthopedics,Tukums,10/8/2025,9/21/2025,Scheduled,General,2,182266,Transferred,No
+705,85,Male,private,general medicine,Ourovéni,11/30/2025,5/25/2025,Emergency,General,5,108055,Deceased,No
+706,32,Female,private,emergency,Dykan’ka,6/2/2025,9/9/2025,Scheduled,General,5,190849,Improved,No
+707,97,Female,private,orthopedics,Vihti,7/16/2025,3/2/2025,Emergency,ICU,4,188386,Recovered,No
+708,30,Agender,private,Cardiology,Parung,8/31/2025,12/14/2025,Emergency,General,4,110088,Deceased,yes
+709,91,Male,Self pay,Cardiology,Babak,7/29/2025,1/27/2026,Emergency,ICU,9,126784,Recovered,yes
+710,89,Male,private,oncology,Pasirnangka,11/3/2025,7/21/2025,Emergency,General,10,170870,Deceased,yes
+711,85,Male,Self pay,orthopedics,Koumra,5/17/2025,7/28/2025,Emergency,General,7,38697,Transferred,No
+712,13,Male,private,general medicine,Banī Walīd,7/5/2025,3/21/2025,Emergency,General,4,9177,Improved,yes
+713,18,Female,Self pay,Cardiology,Shchukino,12/3/2025,10/13/2025,Emergency,General,9,48100,Recovered,No
+714,61,Agender,Government,Cardiology,Torsby,8/1/2025,10/17/2025,Emergency,General,6,18560,Deceased,yes
+715,89,Male,Government,orthopedics,Kąty Wrocławskie,9/25/2025,7/30/2025,Emergency,ICU,4,39377,Recovered,No
+716,56,Female,Government,emergency,Mufushan,6/15/2025,3/21/2025,Emergency,ICU,1,70592,Improved,yes
+717,81,Female,private,pediatrics,Sobhādero,6/2/2025,1/28/2026,Scheduled,General,8,114253,Deceased,No
+718,39,Non-binary,private,Cardiology,Nantes,12/3/2025,10/18/2025,Scheduled,General,4,25195,Deceased,No
+719,19,Male,Self pay,orthopedics,Cocorná,1/13/2026,8/4/2025,Emergency,General,9,33899,Transferred,No
+720,64,Male,private,oncology,Hollola,10/15/2025,7/1/2025,Emergency,ICU,6,11212,Transferred,yes
+721,30,Male,private,general medicine,Gafanha da Encarnação,7/29/2025,4/2/2025,Emergency,ICU,8,189095,Transferred,No
+722,93,Non-binary,Government,emergency,Horana South,6/25/2025,12/30/2025,Scheduled,General,3,159657,Improved,yes
+723,18,Male,private,general medicine,Gomunice,3/25/2025,7/30/2025,Emergency,ICU,8,8305,Transferred,yes
+724,73,Male,Government,pediatrics,Klisura,7/8/2025,11/22/2025,Scheduled,ICU,5,193227,Deceased,No
+725,61,Female,Government,oncology,São Francisco do Sul,2/1/2026,4/3/2025,Scheduled,ICU,7,125166,Deceased,No
+726,56,Male,private,Cardiology,Jinchang,7/20/2025,8/24/2025,Emergency,General,6,36188,Recovered,No
+727,53,Male,Self pay,Cardiology,Hongwŏn,7/27/2025,11/30/2025,Emergency,ICU,1,99761,Transferred,yes
+728,18,Female,Government,general medicine,Genyem,5/16/2025,4/12/2025,Scheduled,General,3,93884,Improved,yes
+729,90,Female,Self pay,Cardiology,Shreveport,12/15/2025,12/8/2025,Emergency,General,1,135660,Recovered,yes
+730,29,Female,private,oncology,Huaminglou,9/18/2025,9/30/2025,Emergency,ICU,4,185017,Recovered,yes
+731,97,Male,Government,general medicine,Montenegro,2/4/2026,9/24/2025,Emergency,General,7,57745,Improved,yes
+732,88,Male,Self pay,orthopedics,Mosteiro,11/13/2025,1/31/2026,Scheduled,General,9,35690,Recovered,No
+733,55,Female,Government,orthopedics,Shimiaozi,5/12/2025,11/11/2025,Scheduled,General,3,85802,Transferred,yes
+734,59,Male,private,oncology,Subulussalam,11/18/2025,10/26/2025,Emergency,ICU,6,129970,Improved,yes
+735,6,Bigender,Government,Cardiology,Château-Richer,1/29/2026,1/10/2026,Scheduled,ICU,3,31940,Improved,yes
+736,32,Female,Government,pediatrics,Debre Zeyit,1/30/2026,5/22/2025,Scheduled,ICU,8,119292,Improved,yes
+737,10,Male,private,oncology,Balaka,7/3/2025,8/25/2025,Scheduled,ICU,2,100254,Transferred,yes
+738,26,Male,Government,emergency,Paris 13,6/28/2025,5/18/2025,Emergency,ICU,10,164616,Deceased,No
+739,66,Male,Self pay,Cardiology,Grzmiąca,2/2/2026,7/22/2025,Scheduled,General,1,8216,Transferred,No
+740,87,Female,Self pay,general medicine,Pando,9/14/2025,9/23/2025,Emergency,General,6,130494,Recovered,yes
+741,8,Female,Government,orthopedics,Kula,7/8/2025,2/28/2025,Scheduled,ICU,4,155451,Deceased,No
+742,72,Female,private,general medicine,Lantian,8/8/2025,7/18/2025,Emergency,General,5,135066,Recovered,No
+743,3,Female,private,emergency,Sedati,8/21/2025,5/13/2025,Emergency,General,2,161658,Deceased,yes
+744,12,Female,Self pay,emergency,Xia Dawo,9/19/2025,1/2/2026,Scheduled,General,2,166509,Transferred,No
+745,71,Male,Self pay,general medicine,San Antonio de los Cobres,7/25/2025,9/18/2025,Scheduled,ICU,8,152066,Improved,yes
+746,44,Polygender,Self pay,emergency,Cullhuas,11/22/2025,11/12/2025,Scheduled,General,5,48510,Improved,No
+747,100,Male,Self pay,orthopedics,Hlyboka,6/29/2025,11/22/2025,Scheduled,General,9,41539,Deceased,yes
+748,68,Bigender,Government,general medicine,Panglanjan,12/27/2025,3/2/2025,Scheduled,ICU,4,91420,Improved,No
+749,40,Female,Self pay,general medicine,Los Frentones,6/16/2025,2/7/2025,Scheduled,General,7,65158,Transferred,No
+750,67,Male,Self pay,general medicine,Thành phố Bạc Liêu,7/19/2025,1/31/2026,Emergency,ICU,10,119049,Recovered,No
+751,43,Male,Self pay,orthopedics,Concepción de Ataco,9/27/2025,9/22/2025,Scheduled,General,3,82711,Deceased,No
+752,54,Non-binary,Government,oncology,Guadalupe,8/20/2025,5/30/2025,Emergency,General,4,82850,Transferred,yes
+753,64,Female,Government,general medicine,Huskvarna,3/15/2025,5/18/2025,Scheduled,General,7,65329,Transferred,No
+754,26,Polygender,private,pediatrics,Raposeira,11/8/2025,3/9/2025,Emergency,ICU,9,189473,Transferred,yes
+755,89,Female,private,orthopedics,Čejkovice,6/26/2025,2/3/2026,Scheduled,ICU,4,178439,Deceased,yes
+756,93,Male,Government,orthopedics,Minle,9/16/2025,3/11/2025,Emergency,ICU,8,135450,Deceased,yes
+757,78,Genderfluid,Government,Cardiology,Qingkou,7/8/2025,7/23/2025,Emergency,General,2,125595,Transferred,yes
+758,45,Bigender,Government,oncology,Novyye Kuz’minki,1/14/2026,2/24/2025,Emergency,ICU,2,22041,Deceased,yes
+759,20,Female,Self pay,emergency,Sumbawa Besar,8/6/2025,11/17/2025,Emergency,General,5,42177,Deceased,yes
+760,68,Female,Government,general medicine,Sawahan,5/2/2025,9/8/2025,Emergency,General,7,20384,Recovered,No
+761,28,Female,Self pay,Cardiology,Rasskazovo,12/7/2025,2/5/2025,Scheduled,ICU,1,47976,Transferred,No
+762,56,Non-binary,Self pay,Cardiology,Shipunovo,5/30/2025,5/18/2025,Scheduled,General,3,193409,Improved,No
+763,20,Male,private,emergency,Podolí,9/30/2025,8/4/2025,Emergency,General,4,127347,Deceased,yes
+764,9,Male,private,general medicine,Kawungsari,12/13/2025,7/12/2025,Emergency,General,4,141652,Improved,No
+765,56,Female,private,general medicine,Szeged,12/3/2025,3/23/2025,Scheduled,ICU,7,158195,Recovered,yes
+766,91,Male,private,emergency,Jatirogo,5/28/2025,2/5/2025,Emergency,General,8,70842,Deceased,yes
+767,67,Male,Government,emergency,Tombu,1/31/2026,2/20/2025,Scheduled,General,4,94295,Recovered,No
+768,18,Male,Self pay,Cardiology,Cheongju-si,12/14/2025,4/22/2025,Scheduled,ICU,9,61900,Transferred,yes
+769,63,Male,Self pay,general medicine,Seririt,2/27/2025,7/1/2025,Emergency,ICU,9,180426,Transferred,No
+770,32,Female,Self pay,Cardiology,San Pedro,12/17/2025,11/6/2025,Emergency,General,8,74276,Transferred,yes
+771,15,Female,private,oncology,Utara,6/5/2025,5/27/2025,Emergency,ICU,5,7813,Improved,No
+772,30,Female,private,general medicine,Pakxong,10/27/2025,3/8/2025,Scheduled,General,1,112848,Deceased,No
+773,11,Female,private,Cardiology,Stung Treng,5/29/2025,12/24/2025,Scheduled,ICU,1,27995,Transferred,No
+774,27,Female,Government,orthopedics,San Jose,11/7/2025,6/30/2025,Scheduled,General,8,39229,Deceased,yes
+775,13,Male,Self pay,orthopedics,Barda,8/3/2025,7/20/2025,Scheduled,General,3,60494,Recovered,yes
+776,62,Male,private,pediatrics,Lipin Bor,5/9/2025,7/13/2025,Scheduled,General,1,59491,Recovered,yes
+777,52,Male,Self pay,emergency,Jand,12/22/2025,4/16/2025,Emergency,General,6,161038,Recovered,yes
+778,77,Male,Government,pediatrics,Vista Hermosa,5/4/2025,5/10/2025,Scheduled,General,3,108573,Deceased,No
+779,87,Male,Government,emergency,Tsybli,12/28/2025,2/5/2025,Scheduled,ICU,9,77862,Recovered,yes
+780,15,Female,private,orthopedics,Suocheng,12/1/2025,11/8/2025,Emergency,General,7,140977,Deceased,yes
+781,65,Agender,Self pay,oncology,Ban Thai Tan,11/10/2025,12/16/2025,Scheduled,ICU,8,40164,Recovered,yes
+782,54,Female,private,general medicine,Suan Luang,8/25/2025,5/11/2025,Scheduled,ICU,1,13638,Deceased,yes
+783,24,Female,Government,pediatrics,Janeng,10/11/2025,10/29/2025,Emergency,ICU,2,50842,Transferred,yes
+784,35,Male,Self pay,Cardiology,La Estrella,10/20/2025,12/9/2025,Scheduled,ICU,7,107972,Deceased,No
+785,10,Female,private,oncology,Kommunisticheskiy,3/24/2025,4/3/2025,Scheduled,ICU,2,99137,Recovered,yes
+786,36,Male,Government,emergency,Delvinë,12/12/2025,3/13/2025,Scheduled,ICU,10,144466,Deceased,No
+787,48,Male,private,general medicine,Olejet,3/8/2025,5/12/2025,Emergency,General,1,143798,Deceased,No
+788,33,Female,Government,Cardiology,Stockholm,7/13/2025,10/14/2025,Scheduled,ICU,5,158181,Recovered,yes
+789,70,Female,private,general medicine,Pentaplátano,12/30/2025,2/6/2025,Emergency,ICU,2,198299,Recovered,No
+790,36,Female,Government,general medicine,Jin’e,12/11/2025,12/22/2025,Scheduled,General,5,84346,Recovered,No
+791,24,Female,Government,emergency,Paritaman,11/29/2025,10/30/2025,Emergency,General,3,120875,Deceased,No
+792,86,Male,Government,orthopedics,Vitoria-Gasteiz,12/2/2025,1/23/2026,Emergency,General,6,16542,Improved,yes
+793,87,Female,private,Cardiology,Soisy-sous-Montmorency,7/5/2025,10/14/2025,Emergency,ICU,1,75863,Recovered,No
+794,36,Bigender,private,general medicine,Pomar,4/10/2025,3/31/2025,Scheduled,ICU,1,64412,Transferred,yes
+795,22,Male,Government,Cardiology,Maskinongé,9/27/2025,8/31/2025,Emergency,General,5,77118,Improved,No
+796,98,Male,Government,orthopedics,Iktābah,11/12/2025,11/25/2025,Scheduled,General,6,65652,Recovered,No
+797,1,Female,Self pay,emergency,Franca,6/4/2025,1/23/2026,Scheduled,General,3,158769,Deceased,yes
+798,75,Female,Government,Cardiology,Demyansk,8/23/2025,11/13/2025,Emergency,General,1,78280,Recovered,No
+799,89,Female,private,emergency,Caminauit,5/8/2025,4/24/2025,Scheduled,ICU,6,39793,Improved,yes
+800,14,Polygender,private,orthopedics,Henghe,5/15/2025,1/6/2026,Emergency,ICU,8,111514,Recovered,yes
+801,69,Female,private,orthopedics,Namangan Shahri,4/12/2025,8/26/2025,Scheduled,ICU,6,185581,Improved,No
+802,14,Female,Government,pediatrics,Niedercorn,2/4/2026,1/23/2026,Scheduled,General,10,89897,Recovered,No
+803,85,Female,private,Cardiology,Xiongchi,12/11/2025,10/24/2025,Emergency,General,5,135146,Improved,No
+804,97,Female,private,oncology,Zhangcheng,9/14/2025,5/5/2025,Emergency,General,1,80353,Improved,yes
+805,85,Male,private,emergency,Ust’-Isha,7/6/2025,9/9/2025,Emergency,ICU,3,121056,Deceased,yes
+806,75,Female,private,orthopedics,Türkmenabat,4/28/2025,11/26/2025,Emergency,General,4,10122,Transferred,yes
+807,39,Male,Government,Cardiology,San Lorenzo,6/20/2025,3/14/2025,Emergency,ICU,6,79422,Transferred,yes
+808,88,Female,Government,orthopedics,Sacramento,12/13/2025,7/9/2025,Emergency,General,1,169328,Deceased,yes
+809,36,Male,private,oncology,Les Clayes-sous-Bois,3/2/2025,3/7/2025,Scheduled,General,7,43746,Transferred,yes
+810,54,Male,Government,general medicine,Renyi,9/12/2025,10/9/2025,Scheduled,General,8,96874,Deceased,yes
+811,26,Female,Government,emergency,Kembangkerang Satu,2/17/2025,4/9/2025,Scheduled,General,5,153151,Recovered,No
+812,40,Male,Self pay,Cardiology,Kamal,6/16/2025,12/18/2025,Scheduled,ICU,1,114881,Improved,yes
+813,68,Female,private,general medicine,Bandar-e Torkaman,9/24/2025,7/28/2025,Emergency,ICU,7,16249,Recovered,yes
+814,2,Female,private,pediatrics,Kungshamn,4/2/2025,2/24/2025,Emergency,ICU,10,142894,Recovered,No
+815,87,Female,private,oncology,Nabire,8/6/2025,4/22/2025,Scheduled,ICU,6,182771,Recovered,No
+816,79,Polygender,private,Cardiology,Zaragoza,3/9/2025,4/20/2025,Scheduled,General,5,36698,Improved,yes
+817,17,Male,Self pay,general medicine,Non Sang,1/23/2026,2/12/2025,Scheduled,ICU,6,55688,Transferred,yes
+818,64,Female,Self pay,general medicine,Bendo,7/12/2025,9/24/2025,Emergency,General,9,102428,Improved,No
+819,90,Female,Government,general medicine,Pasirhaur,5/4/2025,12/30/2025,Scheduled,General,8,140280,Improved,yes
+820,51,Female,Self pay,emergency,Lysekil,11/2/2025,6/14/2025,Emergency,ICU,6,46365,Transferred,No
+821,35,Male,private,emergency,Sedatigede,11/17/2025,5/10/2025,Scheduled,ICU,9,189493,Transferred,No
+822,4,Female,Government,pediatrics,Montréal-Ouest,8/24/2025,10/10/2025,Emergency,General,2,184146,Deceased,No
+823,26,Female,Government,orthopedics,Cibulakan,12/28/2025,12/5/2025,Scheduled,ICU,7,136652,Recovered,No
+824,66,Male,private,pediatrics,Gajiram,7/24/2025,2/27/2025,Emergency,General,6,138764,Transferred,No
+825,25,Female,Government,orthopedics,Jinxiang,1/10/2026,3/1/2025,Scheduled,ICU,7,134053,Recovered,No
+826,31,Male,Government,pediatrics,Goranboy,8/8/2025,10/13/2025,Scheduled,General,4,111605,Recovered,No
+827,79,Male,private,emergency,Qinshi,8/4/2025,8/27/2025,Scheduled,General,2,63674,Deceased,yes
+828,20,Female,private,emergency,Skellefteå,7/23/2025,1/19/2026,Scheduled,ICU,7,15126,Recovered,yes
+829,36,Male,private,pediatrics,Risaralda,2/17/2025,2/15/2025,Emergency,General,5,114088,Recovered,No
+830,28,Female,Government,orthopedics,Lom Sak,10/26/2025,9/27/2025,Scheduled,ICU,8,115049,Deceased,yes
+831,55,Male,Self pay,orthopedics,Gombangan,3/16/2025,10/7/2025,Scheduled,General,9,177199,Deceased,No
+832,94,Male,Self pay,pediatrics,Bailan,9/1/2025,8/27/2025,Scheduled,ICU,9,120502,Transferred,No
+833,17,Female,private,general medicine,Buarcos,12/24/2025,2/7/2025,Scheduled,ICU,6,140657,Deceased,yes
+834,98,Female,Government,pediatrics,Plewiska,12/13/2025,7/5/2025,Emergency,ICU,6,11888,Deceased,No
+835,18,Male,Self pay,pediatrics,Vila do Maio,8/17/2025,11/29/2025,Scheduled,ICU,2,157722,Improved,yes
+836,47,Male,Government,orthopedics,Foča,10/7/2025,2/24/2025,Emergency,General,6,24153,Deceased,yes
+837,85,Male,private,pediatrics,Vernon,6/4/2025,4/8/2025,Emergency,ICU,8,185446,Improved,yes
+838,26,Female,Government,Cardiology,Anzi,4/4/2025,5/21/2025,Emergency,ICU,4,78253,Transferred,No
+839,64,Female,Government,Cardiology,Huangjin,11/1/2025,4/17/2025,Emergency,General,9,168102,Deceased,yes
+840,32,Male,Government,orthopedics,Bilbays,11/29/2025,9/18/2025,Emergency,General,10,135659,Deceased,No
+841,28,Female,private,emergency,Katori-shi,6/9/2025,6/3/2025,Emergency,ICU,4,79862,Recovered,No
+842,30,Female,Government,orthopedics,Fargo,4/11/2025,1/23/2026,Scheduled,General,10,32583,Deceased,yes
+843,28,Female,Self pay,pediatrics,Bakhmach,9/3/2025,10/25/2025,Emergency,ICU,6,180054,Improved,yes
+844,42,Male,Self pay,general medicine,Pasaje,3/13/2025,11/18/2025,Emergency,ICU,9,6863,Recovered,No
+845,16,Female,Government,oncology,Kadukandel,6/6/2025,10/1/2025,Emergency,ICU,10,60437,Deceased,No
+846,61,Male,Self pay,oncology,Beitai,7/14/2025,11/30/2025,Emergency,ICU,3,198795,Transferred,No
+847,58,Male,Self pay,general medicine,Baghlān,10/24/2025,2/18/2025,Emergency,ICU,10,40655,Recovered,yes
+848,43,Female,Self pay,Cardiology,Aughrim,3/24/2025,4/29/2025,Scheduled,ICU,4,69208,Transferred,No
+849,65,Female,Self pay,general medicine,Daijiaba,11/20/2025,6/15/2025,Emergency,General,3,95651,Recovered,No
+850,52,Genderqueer,Self pay,pediatrics,Zhucun,4/24/2025,7/9/2025,Emergency,General,4,26849,Deceased,yes
+851,83,Male,Self pay,emergency,Mengenkrajan,7/13/2025,3/14/2025,Scheduled,ICU,9,127425,Transferred,yes
+852,1,Agender,private,oncology,Gävle,7/27/2025,11/19/2025,Scheduled,ICU,5,170716,Recovered,No
+853,13,Male,Government,emergency,Shujāābād,8/22/2025,6/27/2025,Emergency,ICU,3,87568,Improved,yes
+854,35,Female,Self pay,orthopedics,Västervik,8/26/2025,2/23/2025,Emergency,General,6,32458,Transferred,yes
+855,33,Female,Government,pediatrics,Grugul,10/30/2025,4/15/2025,Scheduled,ICU,1,113781,Improved,yes
+856,11,Female,Self pay,oncology,Amieirinha,8/11/2025,8/28/2025,Scheduled,ICU,1,177631,Transferred,No
+857,39,Male,private,oncology,Qingshui,8/13/2025,5/18/2025,Scheduled,General,10,57197,Improved,yes
+858,62,Male,Self pay,general medicine,Indaiatuba,7/27/2025,1/13/2026,Scheduled,General,4,119766,Recovered,yes
+859,84,Female,Government,emergency,Tottori,5/6/2025,4/30/2025,Scheduled,General,7,122605,Transferred,yes
+860,67,Male,Self pay,pediatrics,Liangzeng,11/27/2025,2/16/2025,Scheduled,General,6,99199,Improved,No
+861,43,Male,private,Cardiology,Plottier,9/25/2025,5/3/2025,Emergency,General,1,184560,Deceased,No
+862,56,Male,Self pay,orthopedics,Daban,9/16/2025,8/7/2025,Emergency,ICU,1,127675,Transferred,yes
+863,80,Male,Self pay,general medicine,El Paso,11/2/2025,1/26/2026,Scheduled,ICU,1,108232,Deceased,yes
+864,74,Female,private,emergency,Snegiri,3/24/2025,12/9/2025,Emergency,ICU,6,88267,Transferred,No
+865,52,Female,Self pay,Cardiology,San José El Ídolo,4/2/2025,2/2/2026,Emergency,General,7,14679,Deceased,yes
+866,5,Male,Self pay,emergency,Ermidas do Sado,11/30/2025,8/7/2025,Scheduled,General,6,57862,Recovered,yes
+867,38,Bigender,private,oncology,Rennes,9/5/2025,4/25/2025,Scheduled,General,10,37471,Recovered,yes
+868,63,Male,Government,oncology,Mizusawa,4/11/2025,5/22/2025,Emergency,General,2,173417,Improved,yes
+869,50,Female,Self pay,Cardiology,Shetan,10/5/2025,11/13/2025,Emergency,General,8,174156,Recovered,yes
+870,21,Polygender,Self pay,oncology,Zhukovskiy,12/15/2025,3/30/2025,Emergency,ICU,5,9249,Recovered,yes
+871,11,Female,Government,general medicine,Maoping,9/9/2025,10/10/2025,Emergency,General,4,18896,Recovered,yes
+872,40,Genderqueer,Government,general medicine,Belmopan,7/6/2025,3/6/2025,Emergency,ICU,9,87160,Transferred,No
+873,52,Female,Self pay,oncology,Longxian Chengguanzhen,3/9/2025,2/3/2026,Emergency,ICU,9,162940,Recovered,yes
+874,88,Male,Government,emergency,Ituverava,4/22/2025,8/22/2025,Scheduled,ICU,7,156959,Improved,yes
+875,60,Female,private,oncology,Aquin,9/13/2025,10/2/2025,Emergency,ICU,2,56812,Transferred,yes
+876,96,Female,Government,oncology,Cafarnaum,10/7/2025,11/14/2025,Scheduled,ICU,4,192872,Transferred,No
+877,78,Female,Self pay,Cardiology,Fort Worth,7/4/2025,8/27/2025,Scheduled,General,5,185663,Improved,No
+878,47,Female,Government,emergency,Tambaksari,6/22/2025,2/19/2025,Emergency,ICU,1,165262,Improved,No
+879,99,Female,Self pay,pediatrics,Wanling,10/5/2025,3/24/2025,Scheduled,ICU,10,173203,Recovered,No
+880,41,Male,Self pay,orthopedics,Fusagasuga,8/4/2025,7/22/2025,Emergency,ICU,5,93042,Improved,No
+881,42,Female,Government,Cardiology,Beitan,4/8/2025,8/23/2025,Emergency,ICU,1,166357,Improved,No
+882,65,Male,private,Cardiology,Ifon,12/6/2025,7/6/2025,Scheduled,General,9,26817,Deceased,yes
+883,44,Female,Self pay,emergency,Paripiranga,9/30/2025,1/10/2026,Scheduled,General,8,49571,Transferred,No
+884,66,Male,private,Cardiology,Alto de São Sebastião,10/16/2025,4/30/2025,Scheduled,General,3,79245,Recovered,yes
+885,75,Genderqueer,private,pediatrics,Postupice,2/6/2025,10/12/2025,Scheduled,General,5,113848,Recovered,No
+886,44,Female,Government,general medicine,Orerokpe,1/26/2026,1/4/2026,Scheduled,General,6,146421,Transferred,yes
+887,4,Male,private,oncology,Gubuk Daya,6/27/2025,6/4/2025,Scheduled,ICU,8,28218,Improved,No
+888,48,Female,private,emergency,Pulau Tiga,8/11/2025,10/25/2025,Emergency,ICU,9,53310,Deceased,yes
+889,65,Female,Self pay,pediatrics,Waipare,7/6/2025,10/6/2025,Emergency,General,2,184948,Transferred,No
+890,88,Male,Self pay,orthopedics,Zwolle,8/19/2025,5/27/2025,Emergency,General,6,113567,Transferred,yes
+891,65,Female,Government,oncology,Shuakhevi,2/22/2025,1/24/2026,Scheduled,ICU,10,44911,Deceased,No
+892,99,Female,Self pay,oncology,Pingkai,6/2/2025,5/5/2025,Emergency,General,5,70854,Recovered,yes
+893,46,Female,Self pay,general medicine,Huichang,12/29/2025,8/5/2025,Scheduled,ICU,2,13660,Transferred,No
+894,55,Female,Government,Cardiology,Dawangzhuang,7/29/2025,12/31/2025,Scheduled,ICU,7,151737,Recovered,yes
+895,90,Female,private,Cardiology,Shenwan,1/3/2026,11/19/2025,Emergency,ICU,2,169391,Deceased,yes
+896,98,Female,Self pay,general medicine,Al Munīrah,12/23/2025,8/19/2025,Scheduled,General,2,32405,Improved,yes
+897,54,Female,private,emergency,Katovice,7/7/2025,8/22/2025,Emergency,ICU,4,37096,Recovered,No
+898,7,Female,Self pay,emergency,Koshigaya,9/26/2025,7/15/2025,Scheduled,ICU,7,35114,Deceased,yes
+899,43,Male,Self pay,emergency,Venta,12/3/2025,4/12/2025,Emergency,General,6,31316,Transferred,yes
+900,82,Male,private,Cardiology,Mniszków,12/22/2025,8/14/2025,Scheduled,General,10,113106,Deceased,yes
+901,4,Male,Government,general medicine,San Isidro,2/8/2025,11/3/2025,Scheduled,ICU,1,191185,Transferred,No
+902,55,Female,Self pay,general medicine,Matriz de Camaragibe,4/1/2025,7/22/2025,Scheduled,ICU,2,84838,Transferred,No
+903,22,Genderfluid,Self pay,oncology,Al Qurayn,1/21/2026,11/7/2025,Scheduled,General,4,30665,Transferred,yes
+904,90,Male,Government,emergency,Broshniv-Osada,5/13/2025,9/12/2025,Scheduled,ICU,10,124299,Deceased,yes
+905,53,Male,private,pediatrics,Xintian,1/1/2026,8/5/2025,Emergency,General,8,137873,Deceased,yes
+906,2,Female,private,pediatrics,Tieling,9/1/2025,12/13/2025,Emergency,General,3,142904,Improved,yes
+907,21,Male,Self pay,pediatrics,El Guamo,7/27/2025,3/2/2025,Scheduled,ICU,6,175314,Improved,yes
+908,15,Agender,private,Cardiology,Gyangqai,2/15/2025,9/11/2025,Scheduled,ICU,5,128822,Recovered,yes
+909,25,Male,Government,orthopedics,Castres,6/16/2025,5/26/2025,Emergency,General,7,168500,Transferred,No
+910,1,Female,private,Cardiology,Ashchysay,12/23/2025,8/5/2025,Emergency,ICU,10,143104,Recovered,No
+911,18,Female,Government,emergency,Dicun,11/2/2025,5/2/2025,Scheduled,ICU,10,34519,Improved,No
+912,96,Male,Government,pediatrics,Monte,7/9/2025,9/19/2025,Scheduled,ICU,10,146689,Improved,yes
+913,88,Bigender,private,orthopedics,Gaotan,1/27/2026,6/30/2025,Scheduled,ICU,2,144474,Transferred,No
+914,10,Male,Government,general medicine,Qingliu,9/13/2025,6/25/2025,Emergency,General,8,58076,Transferred,No
+915,70,Male,Self pay,Cardiology,Shuangshi,5/7/2025,5/28/2025,Scheduled,General,7,63061,Deceased,No
+916,85,Genderqueer,Self pay,emergency,Centre de Flacq,2/10/2025,10/27/2025,Scheduled,ICU,3,56495,Transferred,No
+917,65,Female,Self pay,oncology,Kakegawa,4/16/2025,10/19/2025,Scheduled,ICU,6,197216,Recovered,No
+918,37,Female,Self pay,Cardiology,Rybno,4/10/2025,2/8/2025,Emergency,General,6,47988,Improved,No
+919,49,Female,Self pay,general medicine,Bajia,3/5/2025,7/26/2025,Scheduled,General,2,155838,Transferred,No
+920,37,Male,Self pay,Cardiology,Taurisma,8/5/2025,11/3/2025,Emergency,ICU,4,16027,Recovered,No
+921,88,Male,private,Cardiology,Gempolan Wetan,7/21/2025,10/26/2025,Emergency,ICU,8,182075,Improved,yes
+922,46,Female,Self pay,emergency,Micoud,1/14/2026,1/27/2026,Emergency,General,3,19988,Recovered,No
+923,48,Genderqueer,Government,oncology,Kapiri Mposhi,1/29/2026,8/28/2025,Scheduled,ICU,8,46696,Recovered,yes
+924,40,Male,Self pay,general medicine,Arendal,3/4/2025,10/1/2025,Scheduled,ICU,9,26086,Improved,No
+925,45,Female,Government,general medicine,Oslo,12/4/2025,5/12/2025,Scheduled,ICU,4,118621,Transferred,No
+926,16,Female,private,emergency,Zhenqiao,7/29/2025,8/17/2025,Scheduled,ICU,8,169599,Deceased,yes
+927,51,Male,Government,Cardiology,Venilale,6/6/2025,6/2/2025,Emergency,General,3,58887,Recovered,No
+928,76,Female,Self pay,emergency,Huaqiao,4/10/2025,3/5/2025,Scheduled,General,2,57833,Recovered,yes
+929,72,Female,Self pay,emergency,Slobozia,8/30/2025,6/23/2025,Scheduled,General,3,95281,Deceased,No
+930,19,Male,Government,oncology,Abovyan,6/30/2025,4/9/2025,Scheduled,General,8,55616,Recovered,No
+931,74,Agender,Self pay,general medicine,Grybów,8/21/2025,10/3/2025,Emergency,ICU,1,114763,Improved,No
+932,87,Female,Government,oncology,Strzelin,11/26/2025,1/30/2026,Scheduled,General,9,119136,Recovered,No
+933,24,Male,Government,general medicine,Cinyawang,6/19/2025,6/9/2025,Emergency,General,1,147605,Deceased,yes
+934,99,Female,Self pay,orthopedics,Issy-les-Moulineaux,3/6/2025,3/31/2025,Scheduled,General,2,64633,Transferred,yes
+935,60,Genderqueer,Government,oncology,San Isidro,12/24/2025,7/10/2025,Scheduled,ICU,6,111740,Improved,yes
+936,25,Male,Government,general medicine,Ugep,10/30/2025,6/14/2025,Scheduled,General,9,161553,Deceased,yes
+937,42,Female,Self pay,orthopedics,Carcarañá,4/9/2025,3/2/2025,Emergency,ICU,4,33631,Transferred,yes
+938,10,Male,private,oncology,Banes,9/15/2025,1/21/2026,Emergency,ICU,7,156778,Improved,No
+939,33,Male,Government,general medicine,Amiens,5/18/2025,2/9/2025,Emergency,ICU,9,88954,Recovered,yes
+940,13,Male,Self pay,emergency,London,5/21/2025,2/9/2025,Emergency,General,8,26681,Transferred,No
+941,35,Female,Self pay,pediatrics,Paço,2/20/2025,12/13/2025,Scheduled,ICU,8,50565,Improved,yes
+942,85,Male,Government,oncology,Osinniki,4/30/2025,11/19/2025,Emergency,ICU,5,157878,Improved,No
+943,58,Male,private,orthopedics,Toubao,1/15/2026,12/26/2025,Scheduled,General,3,11901,Improved,yes
+944,4,Male,Government,oncology,Atarodangwautu,10/6/2025,8/1/2025,Emergency,General,7,27706,Improved,No
+945,32,Female,private,emergency,Jiannan,8/5/2025,4/26/2025,Scheduled,General,8,121768,Deceased,yes
+946,93,Male,Self pay,oncology,Rabat,4/4/2025,1/8/2026,Emergency,General,3,104438,Recovered,yes
+947,98,Male,Government,emergency,Piketberg,9/24/2025,7/12/2025,Emergency,General,6,69341,Deceased,No
+948,36,Female,Government,orthopedics,Andres Bonifacio,9/8/2025,9/24/2025,Emergency,ICU,6,33719,Deceased,yes
+949,26,Female,Government,oncology,Santiago de los Caballeros,6/22/2025,11/7/2025,Scheduled,General,5,118908,Recovered,yes
+950,33,Male,Self pay,pediatrics,Kishi,7/31/2025,6/19/2025,Emergency,ICU,1,130571,Improved,No
+951,13,Male,Government,orthopedics,Sahatsakhan,7/24/2025,4/8/2025,Emergency,ICU,2,118755,Recovered,No
+952,70,Female,private,Cardiology,Jawatiwa,3/26/2025,4/6/2025,Emergency,ICU,6,155633,Transferred,yes
+953,33,Female,Government,general medicine,Tangkeng,12/31/2025,6/27/2025,Scheduled,General,5,190773,Recovered,No
+954,49,Female,private,Cardiology,Vannes,1/27/2026,3/17/2025,Scheduled,General,7,86500,Transferred,yes
+955,44,Female,Government,orthopedics,Pashiya,6/7/2025,5/13/2025,Scheduled,ICU,7,195391,Recovered,No
+956,3,Male,private,orthopedics,Burunday,5/22/2025,7/30/2025,Scheduled,ICU,9,145480,Recovered,yes
+957,41,Female,private,orthopedics,Paracatu,11/30/2025,3/20/2025,Scheduled,General,9,88802,Deceased,yes
+958,92,Male,Government,emergency,Dayou,8/14/2025,1/4/2026,Scheduled,General,1,166391,Deceased,No
+959,22,Female,Government,orthopedics,Sypniewo,9/7/2025,3/15/2025,Emergency,ICU,5,185987,Recovered,No
+960,8,Female,private,emergency,Oji River,2/27/2025,9/9/2025,Emergency,General,7,137744,Deceased,No
+961,71,Female,private,general medicine,Koltubanovskiy,11/5/2025,11/19/2025,Scheduled,ICU,2,70497,Improved,No
+962,66,Male,Self pay,Cardiology,Bacheng,7/24/2025,1/27/2026,Scheduled,ICU,8,106345,Deceased,No
+963,12,Female,Self pay,orthopedics,Llipa,11/4/2025,12/24/2025,Scheduled,ICU,6,142011,Recovered,No
+964,17,Male,Self pay,pediatrics,Ust’-Labinsk,6/21/2025,4/24/2025,Emergency,ICU,5,87692,Deceased,No
+965,13,Male,private,emergency,Tecpán Guatemala,4/10/2025,11/10/2025,Scheduled,ICU,5,183925,Transferred,yes
+966,69,Male,Self pay,orthopedics,Itaocara,10/6/2025,3/8/2025,Scheduled,ICU,2,182492,Recovered,yes
+967,29,Male,private,pediatrics,Olivia,1/12/2026,4/7/2025,Scheduled,General,8,68098,Recovered,yes
+968,92,Female,Government,pediatrics,Huifa,8/18/2025,6/14/2025,Emergency,ICU,4,166088,Transferred,yes
+969,89,Male,Self pay,orthopedics,Ichinohe,10/14/2025,4/7/2025,Scheduled,ICU,2,16029,Improved,yes
+970,1,Female,private,orthopedics,Chaloem Phra Kiat,3/9/2025,1/26/2026,Emergency,ICU,9,97640,Recovered,No
+971,75,Male,private,oncology,Xinpeicun,10/27/2025,12/16/2025,Emergency,ICU,9,10838,Transferred,No
+972,24,Female,private,Cardiology,Fucheng,12/11/2025,12/4/2025,Emergency,ICU,9,94354,Recovered,No
+973,60,Male,private,Cardiology,Kwale,9/17/2025,8/27/2025,Emergency,General,8,22739,Transferred,yes
+974,56,Male,private,emergency,San Fernando,1/10/2026,7/24/2025,Scheduled,ICU,6,58221,Deceased,No
+975,56,Female,Government,orthopedics,Aleysk,12/22/2025,10/20/2025,Emergency,ICU,3,81031,Transferred,No
+976,80,Agender,Self pay,Cardiology,Tanalt,5/13/2025,8/5/2025,Emergency,General,1,17474,Improved,yes
+977,47,Male,private,oncology,São Bento,7/24/2025,5/6/2025,Scheduled,General,5,14912,Deceased,yes
+978,18,Genderqueer,private,Cardiology,Zhangwan,8/13/2025,2/10/2025,Emergency,General,4,56810,Deceased,No
+979,83,Female,Government,orthopedics,Uralets,12/17/2025,4/7/2025,Scheduled,General,5,128501,Improved,No
+980,61,Female,Self pay,pediatrics,San Antonio,10/15/2025,9/2/2025,Emergency,ICU,9,183291,Deceased,yes
+981,13,Female,private,Cardiology,Estrada,2/26/2025,5/28/2025,Scheduled,General,5,90704,Deceased,yes
+982,71,Female,Self pay,general medicine,Sovetskiy,6/5/2025,1/20/2026,Scheduled,ICU,1,150021,Deceased,yes
+983,32,Female,Self pay,pediatrics,Pasararba,10/9/2025,12/29/2025,Emergency,General,8,99225,Recovered,No
+984,36,Male,private,orthopedics,Notsé,6/11/2025,4/28/2025,Emergency,ICU,5,50310,Transferred,yes
+985,22,Female,private,general medicine,Maswarah,11/24/2025,3/27/2025,Scheduled,General,10,78200,Recovered,No
+986,68,Male,private,general medicine,Tene,5/23/2025,8/22/2025,Emergency,General,2,144959,Deceased,yes
+987,57,Male,private,general medicine,Minian,11/30/2025,5/5/2025,Scheduled,ICU,1,178722,Transferred,No
+988,99,Male,private,emergency,Kirove,1/5/2026,12/8/2025,Emergency,ICU,1,116405,Transferred,yes
+989,35,Female,private,pediatrics,Capacmarca,8/26/2025,11/19/2025,Scheduled,ICU,9,41268,Recovered,yes
+990,13,Male,private,oncology,Suna,3/15/2025,4/1/2025,Scheduled,General,8,135539,Transferred,No
+991,67,Female,private,pediatrics,Pili,7/2/2025,10/17/2025,Emergency,General,3,32078,Transferred,No
+992,23,Female,Self pay,orthopedics,Villa del Carmen,6/8/2025,8/13/2025,Emergency,General,9,14826,Improved,yes
+993,81,Male,Self pay,orthopedics,Lengshui,12/7/2025,8/16/2025,Scheduled,ICU,8,170533,Recovered,yes
+994,39,Female,private,general medicine,Sukorejo,2/27/2025,10/5/2025,Scheduled,General,5,84903,Deceased,yes
+995,9,Female,Government,orthopedics,San Andres,8/30/2025,8/13/2025,Scheduled,ICU,7,113520,Transferred,No
+996,16,Male,private,general medicine,Orléans,3/15/2025,6/11/2025,Emergency,General,1,138131,Improved,yes
+997,95,Female,Self pay,pediatrics,Putrajaya,10/25/2025,12/29/2025,Emergency,ICU,7,110614,Recovered,yes
+998,99,Female,Self pay,oncology,Tatebayashi,3/30/2025,1/29/2026,Scheduled,ICU,8,183753,Deceased,yes
+999,29,Male,private,orthopedics,Balfour,8/26/2025,8/13/2025,Scheduled,General,1,46614,Improved,No
+1000,68,Female,Self pay,orthopedics,Vasyl'evsky Ostrov,11/11/2025,6/19/2025,Scheduled,General,1,189281,Recovered,yes
